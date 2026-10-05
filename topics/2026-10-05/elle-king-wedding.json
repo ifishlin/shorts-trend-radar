@@ -1,0 +1,47 @@
+{
+  "id": "elle-king-wedding",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05 15:51（Europe/Berlin）",
+  "section": "電影・明星星聞",
+  "category": "明星 / 婚訊",
+  "source": "People",
+  "source_date": "2026-10-05",
+  "title": "Elle King 和多年伴侶 Dan Tooker 結婚了",
+  "summary": "Elle King 公開她與刺青師 Dan Tooker 的戶外婚禮；兩人 2019 年相識，曾短暫分開後復合，現在育有兩個兒子。",
+  "why": "有完整感情時間線、婚禮照片與家庭元素，很適合 30–60 秒星聞。",
+  "shorts_angle": "「這對情侶先訂婚、分開、復合、生了第二個孩子，最後真的走進婚禮。」",
+  "source_url": "https://people.com/elle-king-marries-dan-tooker-in-rustic-outdoor-wedding-12158030",
+  "outline": {
+    "sections": [
+      {
+        "role": "婚禮正式完成",
+        "lines": 2,
+        "say": "先講 Elle King 已和 Dan Tooker 舉行戶外婚禮",
+        "voice": "直球",
+        "want": "婚禮公開照片"
+      },
+      {
+        "role": "他們怎麼認識",
+        "lines": 3,
+        "say": "交代兩人在 2019 年於 Tooker 的刺青店相識，之後訂婚",
+        "voice": "直述",
+        "want": "兩人早期合照與刺青店示意"
+      },
+      {
+        "role": "中間其實分開過",
+        "lines": 3,
+        "say": "講 2023 年短暫分開、2024 復合，後來迎接第二個孩子",
+        "voice": "並排",
+        "want": "感情時間線與家庭照片"
+      },
+      {
+        "role": "最後真的結婚",
+        "lines": 2,
+        "say": "用她稱這是人生最棒的一天收尾",
+        "voice": "懷念",
+        "want": "婚禮蛋糕與一家四口畫面"
+      }
+    ],
+    "close": "只用兩人公開資訊，不延伸猜測分手原因或私人細節。"
+  }
+}
