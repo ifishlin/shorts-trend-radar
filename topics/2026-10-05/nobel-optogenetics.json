@@ -1,0 +1,47 @@
+{
+  "id": "nobel-optogenetics",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05 15:51（Europe/Berlin）",
+  "section": "已有新聞報導",
+  "category": "科學 / 醫學",
+  "source": "Reuters",
+  "source_date": "2026-10-05",
+  "title": "2026 諾貝爾醫學獎給「用光控制腦細胞」的光遺傳學",
+  "summary": "Karl Deisseroth、Peter Hegemann 與 Georg Nagel 因開創光遺傳學獲獎，這項技術能用光精準開關特定神經細胞。",
+  "why": "一句話就能講清楚『用光遙控神經元』，而且背後有從藻類蛋白到腦科學工具的漂亮故事。",
+  "shorts_angle": "「今年諾貝爾醫學獎，得獎的是一種真的可以『用光開關腦細胞』的技術。」",
+  "source_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/deisseroth-hegemann-nagelwin-2026-nobel-medicine-prize-2026-10-05/",
+  "outline": {
+    "sections": [
+      {
+        "role": "先丟最神奇的一句",
+        "lines": 2,
+        "say": "先講今年諾貝爾醫學獎頒給能用光控制神經細胞的光遺傳學",
+        "voice": "直球",
+        "want": "腦神經元受光刺激的實驗畫面"
+      },
+      {
+        "role": "它從哪裡來",
+        "lines": 3,
+        "say": "交代研究源頭是藻類的感光蛋白，後來被改造成控制神經元的工具",
+        "voice": "直述",
+        "want": "藻類、channelrhodopsin 與神經元示意"
+      },
+      {
+        "role": "為什麼革命性",
+        "lines": 3,
+        "say": "解釋研究者可以精準開關特定神經迴路，從只看腦結構變成直接測功能",
+        "voice": "直述",
+        "want": "小鼠腦區與光纖實驗畫面"
+      },
+      {
+        "role": "現在能做到哪",
+        "lines": 2,
+        "say": "收在它已成為全球實驗室常用工具，但臨床治療仍在發展中",
+        "voice": "直球",
+        "want": "實驗室與視覺修復研究畫面"
+      }
+    ],
+    "close": "不要講成已經能用光治好各種腦病；得獎重點是光遺傳學工具的開創與影響。"
+  }
+}
