@@ -1,0 +1,47 @@
+{
+  "id": "social-reckoning-eisenberg",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T12:39:00+02:00",
+  "section": "電影・明星星聞",
+  "category": "電影 / 幕後",
+  "source": "Variety",
+  "source_date": "2026-10-04",
+  "title": "Aaron Sorkin 原本認定 Jesse Eisenberg 會回來演 Zuckerberg，結果他拒絕了",
+  "summary": "Sorkin 說自己寫《The Social Reckoning》時幾乎沒想過 Eisenberg 不會回歸，甚至特地準備一套理由遊說，但仍沒成功。",
+  "why": "有很清楚的戲劇性：導演覺得「理所當然會回來」，演員卻完全不想。",
+  "shorts_angle": "「續集都寫到快完成了，Sorkin 才發現：原本那個 Zuckerberg 不演。」",
+  "source_url": "https://au.variety.com/2026/film/global/aaron-sorkin-jesse-eisenberg-mark-zuckerberg-social-reckoning-40971/",
+  "outline": {
+    "sections": [
+      {
+        "role": "他以為一定會回來",
+        "lines": 2,
+        "say": "先講 Sorkin 寫續集時從沒認真想過 Eisenberg 會拒演 Zuckerberg",
+        "voice": "直球",
+        "want": "《社群網戰》Eisenberg 劇照與 Sorkin 照片"
+      },
+      {
+        "role": "還特地做遊說大綱",
+        "lines": 3,
+        "say": "講 Sorkin 為了說服 Eisenberg，甚至整理出一套理由和他談",
+        "voice": "詼諧",
+        "want": "Sorkin 訪談畫面與文字重點動畫"
+      },
+      {
+        "role": "錢也沒用",
+        "lines": 3,
+        "say": "交代 Sorkin 表示高額片酬也沒有打動 Eisenberg，演員想往不同方向走",
+        "voice": "直述",
+        "want": "Eisenberg 近照與新版演員 Jeremy Strong 照片"
+      },
+      {
+        "role": "所以 Zuckerberg 換人",
+        "lines": 2,
+        "say": "收在新片改由 Jeremy Strong 飾演 Zuckerberg",
+        "voice": "直球",
+        "want": "Jeremy Strong 與 Eisenberg 並排"
+      }
+    ],
+    "close": "不要說 Eisenberg 是因為片酬太低而拒演；公開說法恰好相反，金錢不是主要動機。"
+  }
+}
