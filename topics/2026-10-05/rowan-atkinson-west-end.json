@@ -1,0 +1,47 @@
+{
+  "id": "rowan-atkinson-west-end",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05 15:51（Europe/Berlin）",
+  "section": "已有新聞報導",
+  "category": "文化 / 喜劇",
+  "source": "The Guardian",
+  "source_date": "2026-10-05",
+  "title": "Rowan Atkinson 要把 Mr Bean、Blackadder 帶回倫敦舞台",
+  "summary": "Atkinson 將推出《Rowan Live》，明年在 West End 演 30 場，重演經典 sketch，也加入 Richard Curtis 等人合作的新內容。",
+  "why": "Mr Bean 辨識度超高，而且『40 年後再做 West End sketch show』有很清楚的懷舊鉤子。",
+  "shorts_angle": "「豆豆先生本人，隔了 40 年要回 West End 做喜劇 sketch show。」",
+  "source_url": "https://www.theguardian.com/stage/2026/oct/05/rowan-atkinson-rowan-live-mr-bean-blackadder-west-end",
+  "outline": {
+    "sections": [
+      {
+        "role": "豆豆先生回舞台",
+        "lines": 2,
+        "say": "先講 Rowan Atkinson 明年要在 West End 做 Rowan Live",
+        "voice": "懷念",
+        "want": "Rowan Atkinson 與 Mr Bean 經典畫面"
+      },
+      {
+        "role": "不是只演 Mr Bean",
+        "lines": 3,
+        "say": "交代節目會帶回 Blackadder、Not the Nine O'Clock News 等經典角色與 sketch",
+        "voice": "直述",
+        "want": "不同年代角色畫面快切"
+      },
+      {
+        "role": "還有新東西",
+        "lines": 3,
+        "say": "講 Richard Curtis、Ben Elton、Howard Goodall 等人也參與新內容",
+        "voice": "直述",
+        "want": "合作創作者照片與排練素材"
+      },
+      {
+        "role": "四十年的時間差",
+        "lines": 2,
+        "say": "收在他自己說距離上一次 West End comedy sketch show 已經約 40 年",
+        "voice": "懷念",
+        "want": "年輕 Atkinson 與現在照片並排"
+      }
+    ],
+    "close": "不要說這是 Mr Bean 單人秀；節目涵蓋多個角色與新舊 sketch。"
+  }
+}
