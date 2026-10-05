@@ -1,0 +1,47 @@
+{
+  "id": "james-gunn-next-film",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05 15:51（Europe/Berlin）",
+  "section": "電影・明星星聞",
+  "category": "電影 / 幕後",
+  "source": "Variety",
+  "source_date": "2026-10-05",
+  "title": "James Gunn 說《Superman: Man of Tomorrow》還沒上映，他已經在寫下一部電影",
+  "summary": "Gunn 表示《Man of Tomorrow》的 assembly cut 已完成，而他趁等待剪輯時已開始寫下一個電影計畫，但尚未公布片名。",
+  "why": "非常適合用『這部還沒上映，下一部已經寫起來』做節奏快的幕後題材。",
+  "shorts_angle": "「James Gunn 的 Superman 續集還沒上映，他已經開始寫下一部電影了。」",
+  "source_url": "https://au.variety.com/2026/film/global/james-gunn-next-project-superman-man-of-tomorrow-40989/",
+  "outline": {
+    "sections": [
+      {
+        "role": "下一部已經開寫",
+        "lines": 2,
+        "say": "先講 Gunn 自己在 Threads 回覆粉絲說下一部電影已經開始寫",
+        "voice": "直球",
+        "want": "James Gunn Threads 回覆截圖"
+      },
+      {
+        "role": "上一部其實也很前面",
+        "lines": 3,
+        "say": "交代 Superman: Man of Tomorrow 已完成拍攝，assembly cut 也完成",
+        "voice": "直述",
+        "want": "Superman 續集片場與剪輯室示意"
+      },
+      {
+        "role": "他為什麼現在就寫",
+        "lines": 3,
+        "say": "帶到他說自己在等剪輯組裝時就開始做下一個項目",
+        "voice": "詼諧",
+        "want": "寫劇本與等待進度條的並排畫面"
+      },
+      {
+        "role": "但片名還不知道",
+        "lines": 2,
+        "say": "收在目前沒有公布下一部到底是哪個 DC 計畫",
+        "voice": "直球",
+        "want": "DC Studios 標誌與問號"
+      }
+    ],
+    "close": "不要猜下一部電影是哪個角色；目前公開資訊只確認 Gunn 已經開始寫。"
+  }
+}
