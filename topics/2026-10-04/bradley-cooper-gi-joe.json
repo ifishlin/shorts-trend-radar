@@ -1,0 +1,47 @@
+{
+  "id": "bradley-cooper-gi-joe",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T12:39:00+02:00",
+  "section": "電影・明星星聞",
+  "category": "電影 / 選角",
+  "source": "Variety",
+  "source_date": "2026-10-02",
+  "title": "Bradley Cooper 將在新版《G.I. Joe》演 Duke",
+  "summary": "Paramount 確認 Bradley Cooper 飾演隊長 Duke，Danny McBride 導演並共同編劇；新片不再和《變形金剛》綁在同一個跨界計畫裡。",
+  "why": "大明星＋老牌玩具 IP＋意外選角，標題本身就夠抓人。",
+  "shorts_angle": "「新版《G.I. Joe》的 Duke，居然是 Bradley Cooper。」",
+  "source_url": "https://au.variety.com/2026/film/news/bradley-cooper-duke-in-g-i-joe-reboot-danny-mcbride-40905/",
+  "outline": {
+    "sections": [
+      {
+        "role": "Duke 找到人了",
+        "lines": 2,
+        "say": "先講 Bradley Cooper 已確定演新版《G.I. Joe》的 Duke",
+        "voice": "直球",
+        "want": "Bradley Cooper 與 Duke 經典造型並排"
+      },
+      {
+        "role": "這版誰來拍",
+        "lines": 3,
+        "say": "交代 Danny McBride 執導並參與編劇",
+        "voice": "直述",
+        "want": "Danny McBride 照片與新版電影標誌"
+      },
+      {
+        "role": "和變形金剛拆開",
+        "lines": 3,
+        "say": "補充 Paramount 已把《G.I. Joe》與《變形金剛》的跨界方向拆開",
+        "voice": "並排",
+        "want": "G.I. Joe 與 Transformers 標誌分開動畫"
+      },
+      {
+        "role": "現在還不知道的事",
+        "lines": 2,
+        "say": "提醒劇情與更多選角仍未公布",
+        "voice": "直述",
+        "want": "空白角色卡與問號"
+      }
+    ],
+    "close": "不要自行補上映日、反派或其他角色選角；目前最確定的是 Cooper 飾演 Duke。"
+  }
+}
