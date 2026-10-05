@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05 15:51（Europe/Berlin）",
+  "topics": [
+    {
+      "id": "nobel-optogenetics",
+      "title": "2026 諾貝爾醫學獎給「用光控制腦細胞」的光遺傳學",
+      "section": "已有新聞報導",
+      "json_path": "topics/2026-10-05/nobel-optogenetics.json"
+    },
+    {
+      "id": "saturn-opposition-2026",
+      "title": "土星來到今年最適合看的位置：肉眼就能找到",
+      "section": "已有新聞報導",
+      "json_path": "topics/2026-10-05/saturn-opposition-2026.json"
+    },
+    {
+      "id": "egypt-servant-sacrifice",
+      "title": "古埃及第一王朝的隨葬者，可能真的被殺來陪葬",
+      "section": "已有新聞報導",
+      "json_path": "topics/2026-10-05/egypt-servant-sacrifice.json"
+    },
+    {
+      "id": "superpollutants-climate",
+      "title": "全球暖化有一個被低估的「快煞車」：先砍超級污染物",
+      "section": "已有新聞報導",
+      "json_path": "topics/2026-10-05/superpollutants-climate.json"
+    },
+    {
+      "id": "queensland-ai-datacenter",
+      "title": "澳洲小鎮旁要蓋 725 公頃 AI 資料中心，峰值用電可能等於昆士蘭四分之一",
+      "section": "已有新聞報導",
+      "json_path": "topics/2026-10-05/queensland-ai-datacenter.json"
+    },
+    {
+      "id": "rowan-atkinson-west-end",
+      "title": "Rowan Atkinson 要把 Mr Bean、Blackadder 帶回倫敦舞台",
+      "section": "已有新聞報導",
+      "json_path": "topics/2026-10-05/rowan-atkinson-west-end.json"
+    },
+    {
+      "id": "nfl-official-profanity",
+      "title": "NFL 正調查裁判疑似在場上直接罵球員髒話",
+      "section": "已有新聞報導",
+      "json_path": "topics/2026-10-05/nfl-official-profanity.json"
+    },
+    {
+      "id": "avengers-endgame-reclaims-record",
+      "title": "《復仇者聯盟：終局之戰》重映後又超車《阿凡達》，重回全球影史票房第一",
+      "section": "電影・明星星聞",
+      "json_path": "topics/2026-10-05/avengers-endgame-reclaims-record.json"
+    },
+    {
+      "id": "digger-boxoffice-bomb",
+      "title": "Tom Cruise《Digger》開片只有 800 萬美元，《Verity》反而拿下冠軍",
+      "section": "電影・明星星聞",
+      "json_path": "topics/2026-10-05/digger-boxoffice-bomb.json"
+    },
+    {
+      "id": "elle-king-wedding",
+      "title": "Elle King 和多年伴侶 Dan Tooker 結婚了",
+      "section": "電影・明星星聞",
+      "json_path": "topics/2026-10-05/elle-king-wedding.json"
+    },
+    {
+      "id": "taylor-swift-dakota-snl",
+      "title": "Taylor Swift 突然闖進 Dakota Johnson 的《SNL》開場，變成她的「分手治療師」",
+      "section": "電影・明星星聞",
+      "json_path": "topics/2026-10-05/taylor-swift-dakota-snl.json"
+    },
+    {
+      "id": "james-gunn-next-film",
+      "title": "James Gunn 說《Superman: Man of Tomorrow》還沒上映，他已經在寫下一部電影",
+      "section": "電影・明星星聞",
+      "json_path": "topics/2026-10-05/james-gunn-next-film.json"
+    }
+  ]
+}
