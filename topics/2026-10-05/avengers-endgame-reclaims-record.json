@@ -1,0 +1,47 @@
+{
+  "id": "avengers-endgame-reclaims-record",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05 15:51（Europe/Berlin）",
+  "section": "電影・明星星聞",
+  "category": "電影 / 票房",
+  "source": "Variety",
+  "source_date": "2026-10-05",
+  "title": "《復仇者聯盟：終局之戰》重映後又超車《阿凡達》，重回全球影史票房第一",
+  "summary": "《Endgame》靠 Encore 重映把全球累積票房推到約 29.25 億美元，微幅超過《Avatar》的約 29.23 億美元。",
+  "why": "這兩部片的『影史第一』已經互換過不只一次，現在又翻盤，很適合做時間線。",
+  "shorts_angle": "「影史票房第一又換人了，而且是同兩部電影再度互換。」",
+  "source_url": "https://au.variety.com/2026/film/global/avengers-endgame-highest-grossing-movie-ever-avatar-40985/",
+  "outline": {
+    "sections": [
+      {
+        "role": "冠軍又換人",
+        "lines": 2,
+        "say": "先講 Endgame 靠重映再次超過 Avatar 成為全球影史票房第一",
+        "voice": "直球",
+        "want": "Endgame 與 Avatar 海報對決"
+      },
+      {
+        "role": "其實已經換過幾次",
+        "lines": 3,
+        "say": "簡短回顧 Avatar 原本長年第一、Endgame 2019 超車、Avatar 2021 重映再反超",
+        "voice": "並排",
+        "want": "2019、2021、2026 三段票房時間線"
+      },
+      {
+        "role": "這次差多少",
+        "lines": 3,
+        "say": "講兩片目前票房只差幾百萬美元，重映足以改變排名",
+        "voice": "直述",
+        "want": "29.25 億與 29.23 億美元大字比較"
+      },
+      {
+        "role": "Disney怎樣都贏",
+        "lines": 2,
+        "say": "收在 Disney 現在同時擁有 Marvel 與 Fox 電影資產，第一第二其實都在同一家旗下",
+        "voice": "詼諧",
+        "want": "Disney、Marvel、Avatar 標誌並排"
+      }
+    ],
+    "close": "票房數字會持續變動；要標示為報導當下全球累積票房，不說排名永遠固定。"
+  }
+}
