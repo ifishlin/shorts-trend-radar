@@ -1,0 +1,47 @@
+{
+  "id": "superpollutants-climate",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05 15:51（Europe/Berlin）",
+  "section": "已有新聞報導",
+  "category": "氣候 / 科學",
+  "source": "Reuters",
+  "source_date": "2026-10-05",
+  "title": "全球暖化有一個被低估的「快煞車」：先砍超級污染物",
+  "summary": "甲烷、黑碳、地表臭氧、氧化亞氮與高暖化冷媒等短效污染物合計貢獻近半目前暖化，部分可用現有技術快速減排。",
+  "why": "能把複雜氣候議題轉成『CO₂ 是長期工程，但有些東西可以先處理』的直觀概念。",
+  "shorts_angle": "「減碳很慢，但全球暖化其實有幾個可以先踩的『快煞車』。」",
+  "source_url": "https://www.reuters.com/sustainability/climate-energy/world-is-overlooking-powerful-brake-global-warming--ecmii-2026-10-05/",
+  "outline": {
+    "sections": [
+      {
+        "role": "不是只有二氧化碳",
+        "lines": 2,
+        "say": "先講甲烷等超級污染物雖然壽命較短，暖化效果卻很強",
+        "voice": "直球",
+        "want": "CO2 與 methane 圖示並排"
+      },
+      {
+        "role": "為什麼叫快煞車",
+        "lines": 3,
+        "say": "解釋部分污染物在大氣停留時間短，因此減排後較快看到氣候效果",
+        "voice": "直述",
+        "want": "污染物壽命與暖化效果簡圖"
+      },
+      {
+        "role": "現成方法有哪些",
+        "lines": 3,
+        "say": "帶到油氣漏氣、掩埋場、農業與冷媒管理都已有可用技術",
+        "voice": "直述",
+        "want": "甲烷衛星圖、掩埋場與油氣設施"
+      },
+      {
+        "role": "但不是取代減碳",
+        "lines": 2,
+        "say": "收在控制超級污染物是補充，不是拿來取代長期 CO2 減排",
+        "voice": "直球",
+        "want": "短期與長期兩條減排路徑"
+      }
+    ],
+    "close": "不要說只處理甲烷就能解決氣候變遷；它是近程降溫手段之一。"
+  }
+}
