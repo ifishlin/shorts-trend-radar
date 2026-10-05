@@ -1,0 +1,48 @@
+{
+  "id": "mummy-4-fraser-weisz",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T12:39:00+02:00",
+  "section": "電影・明星星聞",
+  "category": "電影 / 懷舊",
+  "source": "People",
+  "source_date": "2026-10-02",
+  "title": "《神鬼傳奇 4》片場照曝光：Brendan Fraser 和 Rachel Weisz 真的一起回來了",
+  "summary": "兩人再度飾演 Rick 與 Evelyn O’Connell，這是他們自 2001 年《神鬼傳奇 2》後首次一起回到這個系列。",
+  "why": "懷舊辨識度極高，而且片場照就是現成的 Shorts 視覺鉤子。",
+  "shorts_angle": "「隔了 25 年，Rick 和 Evelyn 又站在同一個片場了。」",
+  "source_url": "https://people.com/all-about-the-mummy-4-12147718",
+  "intro": "懷念",
+  "outline": {
+    "sections": [
+      {
+        "role": "原班人馬真的回來",
+        "lines": 2,
+        "say": "先講 Brendan Fraser 和 Rachel Weisz 同框拍《神鬼傳奇 4》",
+        "voice": "直球",
+        "want": "兩人在 2026 片場的同框照"
+      },
+      {
+        "role": "中間隔了多久",
+        "lines": 3,
+        "say": "提醒兩人上一次一起演這個系列是 2001 年《神鬼傳奇 2》",
+        "voice": "懷念",
+        "want": "2001 年電影劇照與 2026 片場照並排"
+      },
+      {
+        "role": "這次已知什麼",
+        "lines": 3,
+        "say": "交代導演、回歸演員與目前公布的上映資訊，但不猜劇情",
+        "voice": "直述",
+        "want": "導演與回歸演員照片、官方檔期資訊"
+      },
+      {
+        "role": "最有感的其實是時間",
+        "lines": 2,
+        "say": "把重點收回觀眾熟悉的兩個角色隔多年重新同框",
+        "voice": "懷念",
+        "want": "Fraser 與 Weisz 角色造型特寫"
+      }
+    ],
+    "close": "用懷念感收尾；不要把未公布的劇情或片場照片推測成正式故事內容。"
+  }
+}
