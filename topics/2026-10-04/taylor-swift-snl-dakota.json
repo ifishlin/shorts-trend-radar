@@ -1,0 +1,47 @@
+{
+  "id": "taylor-swift-snl-dakota",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T12:39:00+02:00",
+  "section": "電影・明星星聞",
+  "category": "明星 / SNL",
+  "source": "Variety",
+  "source_date": "2026-10-04",
+  "title": "Taylor Swift 突然闖進 Dakota Johnson 的《SNL》開場，演她的「分手治療師」",
+  "summary": "Dakota Johnson 在開場拿自己的戀情開玩笑，接著 Taylor Swift 突然現身，把兩人的私交直接變成一段現場喜劇。",
+  "why": "有原始節目畫面、有大明星、有 punchline，幾乎天生就是 Short。",
+  "shorts_angle": "「Dakota Johnson 說要介紹她的治療師，結果走出來的是 Taylor Swift。」",
+  "source_url": "https://au.variety.com/2026/music/news/taylor-swift-snl-cameo-dakota-johnson-saturday-night-live-40976/",
+  "outline": {
+    "sections": [
+      {
+        "role": "治療師登場",
+        "lines": 2,
+        "say": "先講 Dakota Johnson 在 SNL 開場說要介紹自己的治療師，Taylor Swift 突然出現",
+        "voice": "直球",
+        "want": "SNL 開場兩人同框畫面"
+      },
+      {
+        "role": "其實根本不是治療",
+        "lines": 3,
+        "say": "講 Swift 吐槽 Dakota 只是每週帶空酒瓶來她家抱怨戀情",
+        "voice": "詼諧",
+        "want": "兩人對話片段與現場觀眾反應"
+      },
+      {
+        "role": "順便拿前任開玩笑",
+        "lines": 3,
+        "say": "交代 Dakota 也在段子中自嘲自己幾段公開戀情",
+        "voice": "直述",
+        "want": "Dakota Johnson 獨白畫面"
+      },
+      {
+        "role": "這段為什麼會爆",
+        "lines": 2,
+        "say": "收在兩人真實私交加上現場突襲感，讓這段特別適合社群傳播",
+        "voice": "詼諧",
+        "want": "觀眾笑聲與兩人謝幕畫面"
+      }
+    ],
+    "close": "把內容當成 SNL 喜劇段子，不把台詞裡的玩笑當成兩人私生活的事實陳述。"
+  }
+}
