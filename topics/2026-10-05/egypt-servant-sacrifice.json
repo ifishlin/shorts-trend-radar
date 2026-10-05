@@ -1,0 +1,47 @@
+{
+  "id": "egypt-servant-sacrifice",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05 15:51（Europe/Berlin）",
+  "section": "已有新聞報導",
+  "category": "歷史 / 考古",
+  "source": "The Guardian",
+  "source_date": "2026-10-05",
+  "title": "古埃及第一王朝的隨葬者，可能真的被殺來陪葬",
+  "summary": "研究團隊重新檢查 Abydos 皇家墓地的 46 顆頭骨，在其中 18 顆看到致命外傷跡象，支持早期王室存在人祭的可能。",
+  "why": "有『百年前考古猜想，現在用現代技術重新驗證』的故事結構。",
+  "shorts_angle": "「考古學家懷疑了一百多年：古埃及國王死後，旁邊那些人是不是也被殺了？」",
+  "source_url": "https://www.theguardian.com/science/2026/oct/05/skull-fractures-suggest-servants-of-egypts-ancient-kings-were-sacrificed",
+  "outline": {
+    "sections": [
+      {
+        "role": "百年前的疑問",
+        "lines": 2,
+        "say": "先講早期考古學家就懷疑王墓周邊的人可能是被犧牲陪葬",
+        "voice": "直球",
+        "want": "Abydos 皇家墓地與早期發掘照片"
+      },
+      {
+        "role": "現代技術再檢查",
+        "lines": 3,
+        "say": "交代研究者重新分析 46 顆頭骨，18 顆出現可能致命的外傷",
+        "voice": "直述",
+        "want": "頭骨掃描與骨折位置標示"
+      },
+      {
+        "role": "可能怎麼死亡",
+        "lines": 3,
+        "say": "說明創傷型態可能來自木製或鹿角工具，但仍無法證明每一位都是被強迫",
+        "voice": "直述",
+        "want": "鈍器創傷示意與墓葬平面圖"
+      },
+      {
+        "role": "答案不是百分百",
+        "lines": 2,
+        "say": "收在這強化了人祭假說，但樣本有限，仍保留學術不確定性",
+        "voice": "直球",
+        "want": "研究論文與遺址遠景"
+      }
+    ],
+    "close": "不要把『可能存在人祭』講成所有隨葬者都確定遭處決；研究支持的是可能性與創傷證據。"
+  }
+}
