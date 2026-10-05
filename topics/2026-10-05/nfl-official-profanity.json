@@ -1,0 +1,47 @@
+{
+  "id": "nfl-official-profanity",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05 15:51（Europe/Berlin）",
+  "section": "已有新聞報導",
+  "category": "運動 / 奇聞",
+  "source": "Reuters",
+  "source_date": "2026-10-05",
+  "title": "NFL 正調查裁判疑似在場上直接罵球員髒話",
+  "summary": "Cardinals 的 Trey McBride 抱怨一次未判犯規後，線審 Jeff Seeman 被鏡頭拍到疑似對他爆粗口，NFL 已表示正在調查。",
+  "why": "影片短、情境清楚，而且『球員抱怨裁判，結果裁判反過來罵人』很適合短影音。",
+  "shorts_angle": "「NFL 這次不是在查球員罵裁判，而是在查裁判有沒有直接罵球員。」",
+  "source_url": "https://www.reuters.com/sports/reports-nfl-looking-into-officials-apparent-profanity-player--flm-2026-10-05/",
+  "outline": {
+    "sections": [
+      {
+        "role": "角色對調了",
+        "lines": 2,
+        "say": "先講 NFL 現在調查的是裁判疑似對球員爆粗口",
+        "voice": "直球",
+        "want": "Trey McBride 與 Jeff Seeman 比賽畫面"
+      },
+      {
+        "role": "事情怎麼發生",
+        "lines": 3,
+        "say": "交代 McBride 因一次未判犯規上前抗議，之後出現這段互動",
+        "voice": "直述",
+        "want": "該次進攻與抗議片段"
+      },
+      {
+        "role": "鏡頭剛好拍到了",
+        "lines": 3,
+        "say": "講無聲短片捕捉到裁判口型與球員反應，球員工會因此批評",
+        "voice": "詼諧",
+        "want": "八秒片段與球員工會聲明"
+      },
+      {
+        "role": "現在還在調查",
+        "lines": 2,
+        "say": "收在 NFL 尚未公布最終判定或懲處",
+        "voice": "直球",
+        "want": "NFL 標誌與 investigation 字樣"
+      }
+    ],
+    "close": "不要把疑似髒話說成已經由 NFL 正式定案；目前是聯盟調查中。"
+  }
+}
