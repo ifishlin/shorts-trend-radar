@@ -1,0 +1,47 @@
+{
+  "id": "digger-boxoffice-bomb",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05 15:51（Europe/Berlin）",
+  "section": "電影・明星星聞",
+  "category": "電影 / 票房",
+  "source": "AP",
+  "source_date": "2026-10-05",
+  "title": "Tom Cruise《Digger》開片只有 800 萬美元，《Verity》反而拿下冠軍",
+  "summary": "《Digger》北美首週末約 800 萬美元，對照高額製作與宣傳成本表現慘淡；Anne Hathaway、Dakota Johnson 的《Verity》以 3260 萬美元登頂。",
+  "why": "Tom Cruise 大製作翻車＋另一部明星電影逆襲，對比非常明確。",
+  "shorts_angle": "「Tom Cruise 新片不是輸一點，是一部高成本大片首週只拿 800 萬美元。」",
+  "source_url": "https://apnews.com/article/7d59b53ae7dbbb22d661d421c941988d",
+  "outline": {
+    "sections": [
+      {
+        "role": "八百萬的開場",
+        "lines": 2,
+        "say": "先講 Digger 北美開片約 800 萬美元，遠低於大片通常需要的規模",
+        "voice": "直球",
+        "want": "Digger 海報與 800 萬美元數字"
+      },
+      {
+        "role": "問題是它很貴",
+        "lines": 3,
+        "say": "交代製作成本與宣傳投入很高，因此低開不只是普通票房失利",
+        "voice": "直述",
+        "want": "Tom Cruise 劇照與成本數字"
+      },
+      {
+        "role": "反而是Verity贏了",
+        "lines": 3,
+        "say": "對比 Anne Hathaway、Dakota Johnson 主演的 Verity 約 3260 萬美元拿下冠軍",
+        "voice": "並排",
+        "want": "Digger 與 Verity 海報、800萬對3260萬"
+      },
+      {
+        "role": "口碑也沒救到首週",
+        "lines": 2,
+        "say": "收在 Digger 評價分歧、首週表現讓後續回本難度變高",
+        "voice": "直述",
+        "want": "影院看板與票房排行"
+      }
+    ],
+    "close": "不要把最終虧損金額當成已確定；目前可確定的是低開與高成本造成的回本壓力。"
+  }
+}
