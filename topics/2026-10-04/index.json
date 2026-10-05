@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T12:39:00+02:00",
+  "topics": [
+    {
+      "id": "tsa-standing-id-check",
+      "title": "美國 TSA 開始撤掉證件查驗員的椅子：查 ID 時必須站著",
+      "section": "已有新聞報導",
+      "json_path": "topics/2026-10-04/tsa-standing-id-check.json"
+    },
+    {
+      "id": "energy-drinks-youth",
+      "title": "醫師警告：能量飲料對兒童與青少年不只是「比較提神」",
+      "section": "已有新聞報導",
+      "json_path": "topics/2026-10-04/energy-drinks-youth.json"
+    },
+    {
+      "id": "tsar-samuel-remains",
+      "title": "一位死了 1000 多年的保加利亞國王，遺骸終於從希臘回到索菲亞",
+      "section": "已有新聞報導",
+      "json_path": "topics/2026-10-04/tsar-samuel-remains.json"
+    },
+    {
+      "id": "uk-bluetongue-outbreak",
+      "title": "英國遭遇史上最嚴重藍舌病疫情，病例數已超過前幾年總和",
+      "section": "已有新聞報導",
+      "json_path": "topics/2026-10-04/uk-bluetongue-outbreak.json"
+    },
+    {
+      "id": "marquez-japan-motogp",
+      "title": "Marc Márquez 日本 MotoGP 奪冠，和榜首只差 2 分",
+      "section": "已有新聞報導",
+      "json_path": "topics/2026-10-04/marquez-japan-motogp.json"
+    },
+    {
+      "id": "mummy-4-fraser-weisz",
+      "title": "《神鬼傳奇 4》片場照曝光：Brendan Fraser 和 Rachel Weisz 真的一起回來了",
+      "section": "電影・明星星聞",
+      "json_path": "topics/2026-10-04/mummy-4-fraser-weisz.json"
+    },
+    {
+      "id": "bradley-cooper-gi-joe",
+      "title": "Bradley Cooper 將在新版《G.I. Joe》演 Duke",
+      "section": "電影・明星星聞",
+      "json_path": "topics/2026-10-04/bradley-cooper-gi-joe.json"
+    },
+    {
+      "id": "anne-hathaway-baby-3",
+      "title": "Anne Hathaway 準備迎接第三個孩子：她說全家四口的日子快要變了",
+      "section": "電影・明星星聞",
+      "json_path": "topics/2026-10-04/anne-hathaway-baby-3.json"
+    },
+    {
+      "id": "social-reckoning-eisenberg",
+      "title": "Aaron Sorkin 原本認定 Jesse Eisenberg 會回來演 Zuckerberg，結果他拒絕了",
+      "section": "電影・明星星聞",
+      "json_path": "topics/2026-10-04/social-reckoning-eisenberg.json"
+    },
+    {
+      "id": "taylor-swift-snl-dakota",
+      "title": "Taylor Swift 突然闖進 Dakota Johnson 的《SNL》開場，演她的「分手治療師」",
+      "section": "電影・明星星聞",
+      "json_path": "topics/2026-10-04/taylor-swift-snl-dakota.json"
+    }
+  ]
+}
