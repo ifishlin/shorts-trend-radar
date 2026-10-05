@@ -1,0 +1,47 @@
+{
+  "id": "marquez-japan-motogp",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T12:39:00+02:00",
+  "section": "已有新聞報導",
+  "category": "運動 / 賽車",
+  "source": "Reuters",
+  "source_date": "2026-10-04",
+  "title": "Marc Márquez 日本 MotoGP 奪冠，和榜首只差 2 分",
+  "summary": "Márquez 在 Motegi 贏下日本站，將 Jorge Martín 的年度積分領先縮小到僅 2 分，剩下六站。",
+  "why": "不是單純「誰贏一場」，而是冠軍戰突然變成幾乎零差距。",
+  "shorts_angle": "「MotoGP 跑到現在，第一名跟第二名只差兩分。」",
+  "source_url": "https://www.reuters.com/sports/marquez-wins-japanese-gp-cut-martins-lead-2026-10-04/",
+  "outline": {
+    "sections": [
+      {
+        "role": "兩分而已",
+        "lines": 2,
+        "say": "先講日本站後年度積分第一和第二只差兩分",
+        "voice": "直球",
+        "want": "Marc Márquez 與 Jorge Martín 的積分表"
+      },
+      {
+        "role": "日本站怎麼贏",
+        "lines": 3,
+        "say": "交代 Márquez 在第 11 圈超越後守住領先，拿下日本站",
+        "voice": "直述",
+        "want": "Motegi 超車與衝線畫面"
+      },
+      {
+        "role": "原本的領先被吃掉",
+        "lines": 3,
+        "say": "把 Martín 仍居榜首、Márquez 追到 331 對 333 的情勢並排",
+        "voice": "並排",
+        "want": "333 對 331 的大字積分動畫"
+      },
+      {
+        "role": "六站決定全部",
+        "lines": 2,
+        "say": "用剩六站把冠軍懸念拉到最高",
+        "voice": "直球",
+        "want": "後續賽程列表或賽車起跑畫面"
+      }
+    ],
+    "close": "不要說 Márquez 已經登上積分榜第一；目前仍是 Martín 領先兩分。"
+  }
+}
