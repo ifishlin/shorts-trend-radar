@@ -1,0 +1,47 @@
+{
+  "id": "queensland-ai-datacenter",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05 15:51（Europe/Berlin）",
+  "section": "已有新聞報導",
+  "category": "科技 / AI",
+  "source": "The Guardian",
+  "source_date": "2026-10-05",
+  "title": "澳洲小鎮旁要蓋 725 公頃 AI 資料中心，峰值用電可能等於昆士蘭四分之一",
+  "summary": "Anthropic 相關規劃中的大型資料中心案位於 Dalby 附近，規模與用電需求引發地方居民、環團與政府的激烈討論。",
+  "why": "AI 很抽象，但『一座資料中心可能吃掉一州四分之一峰值電力』非常具象。",
+  "shorts_angle": "「AI 最誇張的地方可能不是聊天，而是它準備在澳洲蓋一座 725 公頃的資料中心。」",
+  "source_url": "https://www.theguardian.com/australia-news/2026/oct/05/queensland-data-centre-anthropic-western-downs-dalby",
+  "outline": {
+    "sections": [
+      {
+        "role": "先看有多大",
+        "lines": 2,
+        "say": "先講規劃面積約 725 公頃，位置在昆士蘭 Dalby 附近",
+        "voice": "直球",
+        "want": "衛星地圖與 725 公頃範圍示意"
+      },
+      {
+        "role": "真正驚人的是電",
+        "lines": 3,
+        "say": "交代計畫峰值電力需求約 2.16GW，接近昆士蘭總需求四分之一的量級",
+        "voice": "直述",
+        "want": "電力需求數字與昆士蘭電網示意"
+      },
+      {
+        "role": "當地為什麼反彈",
+        "lines": 3,
+        "say": "講居民擔心基礎設施、環境與過去資源開發留下的經驗重演",
+        "voice": "並排",
+        "want": "Dalby 居民、農地與資料中心概念圖"
+      },
+      {
+        "role": "AI其實很吃現實世界",
+        "lines": 2,
+        "say": "用資料中心的土地、電力與地方政治收尾",
+        "voice": "詼諧",
+        "want": "聊天機器人介面切換到大型機房"
+      }
+    ],
+    "close": "不要把規劃案講成已經建成或已經消耗四分之一電力；目前重點是規劃規模與預估需求。"
+  }
+}
