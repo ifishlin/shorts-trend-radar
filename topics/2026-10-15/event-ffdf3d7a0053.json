@@ -1,0 +1,116 @@
+{
+  "id": "ffdf3d7a0053",
+  "title": "鳳凰城機場在Mac mini內發現可疑物品",
+  "category": "奇聞／神祕／意外",
+  "section": "已有新聞報導",
+  "source_url": "https://people.com/drugs-found-in-mac-mini-desktop-computer-at-phoenix-airport-12170621",
+  "published": "2026-10-12（事件10月9日）",
+  "source": "People；TSA消息",
+  "summary": "機場安檢X光發現電腦內部異常；人員進一步檢查一台Mac mini。",
+  "facts": [
+    "機場安檢X光發現電腦內部異常",
+    "人員進一步檢查一台Mac mini",
+    "設備內部被改裝",
+    "發現疑似違禁物質",
+    "警方接手調查"
+  ],
+  "hook": "What did airport security find inside a Mac mini?",
+  "caution": "物質屬初步檢驗，事件不是報導當天發生",
+  "news_status": "新聞已核實",
+  "time_status": "72小時內已確認",
+  "trend_status": "熱度未驗證",
+  "first_recommended": "2026-10-14",
+  "recommendation_label": "先前已推薦",
+  "production": {
+    "story": 19,
+    "novelty": 14,
+    "visual": 13,
+    "clarity": 9,
+    "total": 55
+  },
+  "trend": {
+    "search_growth": "未取得／未驗證",
+    "social_growth": "未取得／未驗證",
+    "independent_media": "10/10",
+    "verified_score": 10,
+    "evaluable_max": 10,
+    "total_max": 40
+  },
+  "us_audience_fit": {
+    "familiarity": 3,
+    "comprehensibility": 4,
+    "hook": 5,
+    "legal_visuals": 3,
+    "total": 15
+  },
+  "outline": {
+    "sections": [
+      {
+        "role": "懸念開場",
+        "lines": [
+          {
+            "say": "這則新聞的懸念是：鳳凰城機場在Mac mini內發現可疑物品？",
+            "voice": "直球"
+          },
+          {
+            "say": "機場安檢X光發現電腦內部異常。",
+            "voice": "直球"
+          }
+        ]
+      },
+      {
+        "role": "事件事實",
+        "lines": [
+          {
+            "say": "人員進一步檢查一台Mac mini。",
+            "voice": "直述"
+          },
+          {
+            "say": "設備內部被改裝。",
+            "voice": "直述"
+          },
+          {
+            "say": "發現疑似違禁物質。",
+            "voice": "直述"
+          },
+          {
+            "say": "警方接手調查。",
+            "voice": "直述"
+          }
+        ]
+      },
+      {
+        "role": "視覺反差",
+        "lines": [
+          {
+            "say": "把「機場安檢X光發現電腦內部異常」與「警方接手調查」放在一起看。",
+            "voice": "並排"
+          },
+          {
+            "say": "用自製圖卡呈現「人員進一步檢查一台Mac mini」。",
+            "voice": "並排"
+          },
+          {
+            "say": "再用時間線解釋「設備內部被改裝」。",
+            "voice": "並排"
+          }
+        ]
+      },
+      {
+        "role": "核實收束",
+        "lines": [
+          {
+            "say": "注意：物質屬初步檢驗，事件不是報導當天發生。",
+            "voice": "直述"
+          },
+          {
+            "say": "你覺得這件事最值得追蹤哪個後續？",
+            "voice": "直述"
+          }
+        ]
+      }
+    ],
+    "close": "不能講錯的事實：物質屬初步檢驗，事件不是報導當天發生。發布前需再確認原始報導與素材授權。"
+  },
+  "rights": "新聞圖片、電影預告、社群影片與新聞畫面需取得授權；優先使用自製圖卡、示意動畫。"
+}
