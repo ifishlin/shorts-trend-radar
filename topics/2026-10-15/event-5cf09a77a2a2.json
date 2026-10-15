@@ -1,0 +1,116 @@
+{
+  "id": "5cf09a77a2a2",
+  "title": "乾涸濕地救出的13隻烏龜重返家園",
+  "category": "動物／懷舊／其他",
+  "section": "已有新聞報導",
+  "source_url": "https://www.theguardian.com/australia-news/2026/oct/13/rescued-turtles-return-home-after-nsw-government-cut-flows-to-wetland",
+  "published": "2026-10-13",
+  "source": "The Guardian",
+  "summary": "澳洲一處濕地因供水中斷乾涸；研究者救出39隻烏龜。",
+  "facts": [
+    "澳洲一處濕地因供水中斷乾涸",
+    "研究者救出39隻烏龜",
+    "首批13隻已回到棲地",
+    "另有24隻仍接受照護",
+    "281顆烏龜蛋正在孵育"
+  ],
+  "hook": "Thirteen rescued turtles are finally going home!",
+  "caution": "不要說39隻都已回到野外",
+  "news_status": "新聞已核實",
+  "time_status": "72小時內已確認",
+  "trend_status": "熱度未驗證",
+  "first_recommended": "2026-10-14",
+  "recommendation_label": "先前已推薦",
+  "production": {
+    "story": 18,
+    "novelty": 12,
+    "visual": 14,
+    "clarity": 9,
+    "total": 53
+  },
+  "trend": {
+    "search_growth": "未取得／未驗證",
+    "social_growth": "未取得／未驗證",
+    "independent_media": "未取得／未驗證",
+    "verified_score": 0,
+    "evaluable_max": 0,
+    "total_max": 40
+  },
+  "us_audience_fit": {
+    "familiarity": 3,
+    "comprehensibility": 4,
+    "hook": 4,
+    "legal_visuals": 4,
+    "total": 15
+  },
+  "outline": {
+    "sections": [
+      {
+        "role": "懸念開場",
+        "lines": [
+          {
+            "say": "這則新聞的懸念是：乾涸濕地救出的13隻烏龜重返家園？",
+            "voice": "直球"
+          },
+          {
+            "say": "澳洲一處濕地因供水中斷乾涸。",
+            "voice": "直球"
+          }
+        ]
+      },
+      {
+        "role": "事件事實",
+        "lines": [
+          {
+            "say": "研究者救出39隻烏龜。",
+            "voice": "直述"
+          },
+          {
+            "say": "首批13隻已回到棲地。",
+            "voice": "直述"
+          },
+          {
+            "say": "另有24隻仍接受照護。",
+            "voice": "直述"
+          },
+          {
+            "say": "281顆烏龜蛋正在孵育。",
+            "voice": "直述"
+          }
+        ]
+      },
+      {
+        "role": "視覺反差",
+        "lines": [
+          {
+            "say": "把「澳洲一處濕地因供水中斷乾涸」與「281顆烏龜蛋正在孵育」放在一起看。",
+            "voice": "並排"
+          },
+          {
+            "say": "用自製圖卡呈現「研究者救出39隻烏龜」。",
+            "voice": "並排"
+          },
+          {
+            "say": "再用時間線解釋「首批13隻已回到棲地」。",
+            "voice": "並排"
+          }
+        ]
+      },
+      {
+        "role": "核實收束",
+        "lines": [
+          {
+            "say": "注意：不要說39隻都已回到野外。",
+            "voice": "直述"
+          },
+          {
+            "say": "你覺得這件事最值得追蹤哪個後續？",
+            "voice": "直述"
+          }
+        ]
+      }
+    ],
+    "close": "不能講錯的事實：不要說39隻都已回到野外。發布前需再確認原始報導與素材授權。"
+  },
+  "rights": "新聞圖片、電影預告、社群影片與新聞畫面需取得授權；優先使用自製圖卡、示意動畫。"
+}
