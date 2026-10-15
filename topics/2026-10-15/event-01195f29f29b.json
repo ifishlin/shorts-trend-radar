@@ -1,0 +1,116 @@
+{
+  "id": "01195f29f29b",
+  "title": "Hulu紀錄片回顧2016年恐怖小丑恐慌",
+  "category": "奇聞／神祕／意外",
+  "section": "已有新聞報導",
+  "source_url": "https://www.imdb.com/news/ni66058714/",
+  "published": "時間待核實",
+  "source": "IMDb新聞彙整；原始報導待查",
+  "summary": "2016年美國曾有恐怖小丑恐慌；此前報告提到Hulu相關紀錄片。",
+  "facts": [
+    "2016年美國曾有恐怖小丑恐慌",
+    "此前報告提到Hulu相關紀錄片",
+    "可區分傳言與真實事件",
+    "本輪尚未確認節目正式名稱",
+    "也未確認最新播出安排"
+  ],
+  "hook": "Remember the creepy clown panic of 2016?",
+  "caution": "不能把網路傳聞當成已證實犯罪",
+  "news_status": "新聞待核實",
+  "time_status": "時間待核實",
+  "trend_status": "熱度未驗證",
+  "first_recommended": "2026-10-12",
+  "recommendation_label": "先前已推薦",
+  "production": {
+    "story": 19,
+    "novelty": 14,
+    "visual": 13,
+    "clarity": 9,
+    "total": 55
+  },
+  "trend": {
+    "search_growth": "未取得／未驗證",
+    "social_growth": "未取得／未驗證",
+    "independent_media": "未取得／未驗證",
+    "verified_score": 0,
+    "evaluable_max": 0,
+    "total_max": 40
+  },
+  "us_audience_fit": {
+    "familiarity": 3,
+    "comprehensibility": 4,
+    "hook": 5,
+    "legal_visuals": 3,
+    "total": 15
+  },
+  "outline": {
+    "sections": [
+      {
+        "role": "懸念開場",
+        "lines": [
+          {
+            "say": "這則新聞的懸念是：Hulu紀錄片回顧2016年恐怖小丑恐慌？",
+            "voice": "直球"
+          },
+          {
+            "say": "2016年美國曾有恐怖小丑恐慌。",
+            "voice": "直球"
+          }
+        ]
+      },
+      {
+        "role": "事件事實",
+        "lines": [
+          {
+            "say": "此前報告提到Hulu相關紀錄片。",
+            "voice": "直述"
+          },
+          {
+            "say": "可區分傳言與真實事件。",
+            "voice": "直述"
+          },
+          {
+            "say": "本輪尚未確認節目正式名稱。",
+            "voice": "直述"
+          },
+          {
+            "say": "也未確認最新播出安排。",
+            "voice": "直述"
+          }
+        ]
+      },
+      {
+        "role": "視覺反差",
+        "lines": [
+          {
+            "say": "把「2016年美國曾有恐怖小丑恐慌」與「也未確認最新播出安排」放在一起看。",
+            "voice": "並排"
+          },
+          {
+            "say": "用自製圖卡呈現「此前報告提到Hulu相關紀錄片」。",
+            "voice": "並排"
+          },
+          {
+            "say": "再用時間線解釋「可區分傳言與真實事件」。",
+            "voice": "並排"
+          }
+        ]
+      },
+      {
+        "role": "核實收束",
+        "lines": [
+          {
+            "say": "注意：不能把網路傳聞當成已證實犯罪。",
+            "voice": "直述"
+          },
+          {
+            "say": "你覺得這件事最值得追蹤哪個後續？",
+            "voice": "直述"
+          }
+        ]
+      }
+    ],
+    "close": "不能講錯的事實：不能把網路傳聞當成已證實犯罪。發布前需再確認原始報導與素材授權。"
+  },
+  "rights": "新聞圖片、電影預告、社群影片與新聞畫面需取得授權；優先使用自製圖卡、示意動畫。"
+}
