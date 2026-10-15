@@ -1,0 +1,111 @@
+{
+  "id": "5e3a9219e205",
+  "title": "美國九月通膨高於預期，股市下跌",
+  "category": "美國社會／消費",
+  "section": "已有新聞報導",
+  "source_url": "https://www.reuters.com/world/us/us-consumer-prices-accelerate-september-costlier-gasoline-core-cpi-firmer-2026-10-14/",
+  "published": "2026-10-14",
+  "source": "Reuters",
+  "summary": "美國九月消費者物價年增3.7%，能源成本推升通膨，市場重新評估升息可能性。",
+  "hook": "Why did one inflation report shake Wall Street?",
+  "news_status": "新聞已核實",
+  "time_status": "72小時內已確認",
+  "trend_status": "熱度未驗證",
+  "first_recommended": "2026-10-15",
+  "recommendation_label": "今日新增",
+  "production": {
+    "story": 16,
+    "novelty": 12,
+    "visual": 12,
+    "clarity": 9,
+    "total": 49,
+    "max": 60
+  },
+  "trend": {
+    "search_growth": null,
+    "social_growth": null,
+    "independent_media": null,
+    "verified_score": null,
+    "evaluable_max": 0,
+    "max": 40
+  },
+  "us_audience_fit": {
+    "familiarity": 4,
+    "clarity": 4,
+    "hook": 4,
+    "legal_visuals": 2,
+    "total": 14,
+    "max": 20
+  },
+  "outline": {
+    "sections": [
+      {
+        "role": "開場",
+        "lines": [
+          {
+            "say": "美國九月通膨高於預期，股市下跌，為什麼現在值得關注？",
+            "voice": "直球"
+          },
+          {
+            "say": "這則新聞由Reuters在2026-10-14報導。",
+            "voice": "直球"
+          }
+        ]
+      },
+      {
+        "role": "背景",
+        "lines": [
+          {
+            "say": "美國九月消費者物價年增3.7%，能源成本推升通膨，市場重新評估升息可能性。",
+            "voice": "直述"
+          },
+          {
+            "say": "先釐清事件的主要人物與時間。",
+            "voice": "直述"
+          },
+          {
+            "say": "觀眾最容易誤解的是新聞標題與實際內容的差別。",
+            "voice": "直述"
+          },
+          {
+            "say": "用一張時間線說明事件如何發展。",
+            "voice": "直述"
+          }
+        ]
+      },
+      {
+        "role": "畫面與反差",
+        "lines": [
+          {
+            "say": "用合法取得的照片或自製圖卡展示關鍵變化。",
+            "voice": "並排"
+          },
+          {
+            "say": "這件事與美國觀眾的日常或娛樂經驗有何關係？",
+            "voice": "並排"
+          },
+          {
+            "say": "還沒有取得可信的社群熱度成長資料。",
+            "voice": "並排"
+          }
+        ]
+      },
+      {
+        "role": "查核收尾",
+        "lines": [
+          {
+            "say": "報導中的推測不能說成已確定的結果。",
+            "voice": "直述"
+          },
+          {
+            "say": "最後讓觀眾思考這個事件接下來會怎麼發展。",
+            "voice": "直述"
+          }
+        ]
+      }
+    ],
+    "close": "不得誇大新聞、時間、數字或把尚未發生的事當作已發生；發布前再核對原文及授權。"
+  },
+  "rights": "新聞照片與影片均需授權；可改用自製圖卡。",
+  "caution": "未取得社群熱度趨勢證據。"
+}
