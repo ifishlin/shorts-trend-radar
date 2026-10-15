@@ -1,0 +1,116 @@
+{
+  "id": "e86901b46746",
+  "title": "《海灘遊俠》重啟影集公開完整預告",
+  "category": "明星／電影／網紅",
+  "section": "電影・明星星聞",
+  "source_url": "https://deadline.com/2026/10/baywatch-reboot-full-trailer-release-fox-1237155347/",
+  "published": "2026-10-14（精確時間待核）",
+  "source": "Deadline",
+  "summary": "Fox公布《Baywatch》重啟影集預告；這不是原版重播。",
+  "facts": [
+    "Fox公布《Baywatch》重啟影集預告",
+    "這不是原版重播",
+    "經典海灘救生員主題再度回歸",
+    "預定2027年1月首播",
+    "觀眾反應與收視仍未知"
+  ],
+  "hook": "Baywatch is back—are you ready?",
+  "caution": "尚未播出，不能說收視已成功",
+  "news_status": "新聞待核實",
+  "time_status": "時間待核實",
+  "trend_status": "熱度未驗證",
+  "first_recommended": "2026-10-14",
+  "recommendation_label": "先前已推薦",
+  "production": {
+    "story": 18,
+    "novelty": 12,
+    "visual": 13,
+    "clarity": 9,
+    "total": 52
+  },
+  "trend": {
+    "search_growth": "未取得／未驗證",
+    "social_growth": "未取得／未驗證",
+    "independent_media": "未取得／未驗證",
+    "verified_score": 0,
+    "evaluable_max": 0,
+    "total_max": 40
+  },
+  "us_audience_fit": {
+    "familiarity": 5,
+    "comprehensibility": 4,
+    "hook": 4,
+    "legal_visuals": 3,
+    "total": 16
+  },
+  "outline": {
+    "sections": [
+      {
+        "role": "懸念開場",
+        "lines": [
+          {
+            "say": "這則新聞的懸念是：《海灘遊俠》重啟影集公開完整預告？",
+            "voice": "直球"
+          },
+          {
+            "say": "Fox公布《Baywatch》重啟影集預告。",
+            "voice": "直球"
+          }
+        ]
+      },
+      {
+        "role": "事件事實",
+        "lines": [
+          {
+            "say": "這不是原版重播。",
+            "voice": "直述"
+          },
+          {
+            "say": "經典海灘救生員主題再度回歸。",
+            "voice": "直述"
+          },
+          {
+            "say": "預定2027年1月首播。",
+            "voice": "直述"
+          },
+          {
+            "say": "觀眾反應與收視仍未知。",
+            "voice": "直述"
+          }
+        ]
+      },
+      {
+        "role": "視覺反差",
+        "lines": [
+          {
+            "say": "把「Fox公布《Baywatch》重啟影集預告」與「觀眾反應與收視仍未知」放在一起看。",
+            "voice": "並排"
+          },
+          {
+            "say": "用自製圖卡呈現「這不是原版重播」。",
+            "voice": "並排"
+          },
+          {
+            "say": "再用時間線解釋「經典海灘救生員主題再度回歸」。",
+            "voice": "並排"
+          }
+        ]
+      },
+      {
+        "role": "核實收束",
+        "lines": [
+          {
+            "say": "注意：尚未播出，不能說收視已成功。",
+            "voice": "直述"
+          },
+          {
+            "say": "你覺得這件事最值得追蹤哪個後續？",
+            "voice": "直述"
+          }
+        ]
+      }
+    ],
+    "close": "不能講錯的事實：尚未播出，不能說收視已成功。發布前需再確認原始報導與素材授權。"
+  },
+  "rights": "新聞圖片、電影預告、社群影片與新聞畫面需取得授權；優先使用自製圖卡、示意動畫。"
+}
