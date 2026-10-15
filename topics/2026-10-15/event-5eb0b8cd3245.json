@@ -1,0 +1,116 @@
+{
+  "id": "5eb0b8cd3245",
+  "title": "Longshot測試巨型發射管構想",
+  "category": "科技／太空／AI",
+  "section": "已有新聞報導",
+  "source_url": "https://techcrunch.com/2026/10/13/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026/",
+  "published": "2026-10-13 11:05 PDT",
+  "source": "TechCrunch",
+  "summary": "Longshot正在測試地面長管加速器；使用多段氣體推進。",
+  "facts": [
+    "Longshot正在測試地面長管加速器",
+    "使用多段氣體推進",
+    "目標是降低太空貨運成本",
+    "目前尚未成功將貨物送入軌道",
+    "完整入軌仍需要其他推進技術"
+  ],
+  "hook": "What if a giant launcher replaced a rocket stage?",
+  "caution": "不能說已成功用發射管送貨入軌",
+  "news_status": "新聞已核實",
+  "time_status": "72小時內已確認",
+  "trend_status": "熱度未驗證",
+  "first_recommended": "2026-10-14",
+  "recommendation_label": "先前已推薦",
+  "production": {
+    "story": 18,
+    "novelty": 12,
+    "visual": 13,
+    "clarity": 9,
+    "total": 52
+  },
+  "trend": {
+    "search_growth": "未取得／未驗證",
+    "social_growth": "未取得／未驗證",
+    "independent_media": "未取得／未驗證",
+    "verified_score": 0,
+    "evaluable_max": 0,
+    "total_max": 40
+  },
+  "us_audience_fit": {
+    "familiarity": 3,
+    "comprehensibility": 4,
+    "hook": 4,
+    "legal_visuals": 4,
+    "total": 15
+  },
+  "outline": {
+    "sections": [
+      {
+        "role": "懸念開場",
+        "lines": [
+          {
+            "say": "這則新聞的懸念是：Longshot測試巨型發射管構想？",
+            "voice": "直球"
+          },
+          {
+            "say": "Longshot正在測試地面長管加速器。",
+            "voice": "直球"
+          }
+        ]
+      },
+      {
+        "role": "事件事實",
+        "lines": [
+          {
+            "say": "使用多段氣體推進。",
+            "voice": "直述"
+          },
+          {
+            "say": "目標是降低太空貨運成本。",
+            "voice": "直述"
+          },
+          {
+            "say": "目前尚未成功將貨物送入軌道。",
+            "voice": "直述"
+          },
+          {
+            "say": "完整入軌仍需要其他推進技術。",
+            "voice": "直述"
+          }
+        ]
+      },
+      {
+        "role": "視覺反差",
+        "lines": [
+          {
+            "say": "把「Longshot正在測試地面長管加速器」與「完整入軌仍需要其他推進技術」放在一起看。",
+            "voice": "並排"
+          },
+          {
+            "say": "用自製圖卡呈現「使用多段氣體推進」。",
+            "voice": "並排"
+          },
+          {
+            "say": "再用時間線解釋「目標是降低太空貨運成本」。",
+            "voice": "並排"
+          }
+        ]
+      },
+      {
+        "role": "核實收束",
+        "lines": [
+          {
+            "say": "注意：不能說已成功用發射管送貨入軌。",
+            "voice": "直述"
+          },
+          {
+            "say": "你覺得這件事最值得追蹤哪個後續？",
+            "voice": "直述"
+          }
+        ]
+      }
+    ],
+    "close": "不能講錯的事實：不能說已成功用發射管送貨入軌。發布前需再確認原始報導與素材授權。"
+  },
+  "rights": "新聞圖片、電影預告、社群影片與新聞畫面需取得授權；優先使用自製圖卡、示意動畫。"
+}
