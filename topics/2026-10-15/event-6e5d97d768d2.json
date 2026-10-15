@@ -1,0 +1,116 @@
+{
+  "id": "6e5d97d768d2",
+  "title": "美國超市Albertsons撤回全年財測",
+  "category": "美國社會／消費",
+  "section": "已有新聞報導",
+  "source_url": "https://www.reuters.com/business/us-grocer-albertsons-suspends-full-year-forecasts-amid-business-review-2026-10-13/",
+  "published": "2026-10-13",
+  "source": "Reuters",
+  "summary": "Albertsons是美國大型連鎖超市；公司撤回全年財務預測。",
+  "facts": [
+    "Albertsons是美國大型連鎖超市",
+    "公司撤回全年財務預測",
+    "正檢討營運與成本結構",
+    "消費者重視物價與折扣",
+    "降價成效仍有待觀察"
+  ],
+  "hook": "Why is a major U.S. grocery chain changing course?",
+  "caution": "改革計畫不等於已全面降價",
+  "news_status": "新聞已核實",
+  "time_status": "72小時內已確認",
+  "trend_status": "熱度未驗證",
+  "first_recommended": "2026-10-14",
+  "recommendation_label": "先前已推薦",
+  "production": {
+    "story": 18,
+    "novelty": 12,
+    "visual": 13,
+    "clarity": 9,
+    "total": 52
+  },
+  "trend": {
+    "search_growth": "未取得／未驗證",
+    "social_growth": "未取得／未驗證",
+    "independent_media": "未取得／未驗證",
+    "verified_score": 0,
+    "evaluable_max": 0,
+    "total_max": 40
+  },
+  "us_audience_fit": {
+    "familiarity": 5,
+    "comprehensibility": 4,
+    "hook": 4,
+    "legal_visuals": 3,
+    "total": 16
+  },
+  "outline": {
+    "sections": [
+      {
+        "role": "懸念開場",
+        "lines": [
+          {
+            "say": "這則新聞的懸念是：美國超市Albertsons撤回全年財測？",
+            "voice": "直球"
+          },
+          {
+            "say": "Albertsons是美國大型連鎖超市。",
+            "voice": "直球"
+          }
+        ]
+      },
+      {
+        "role": "事件事實",
+        "lines": [
+          {
+            "say": "公司撤回全年財務預測。",
+            "voice": "直述"
+          },
+          {
+            "say": "正檢討營運與成本結構。",
+            "voice": "直述"
+          },
+          {
+            "say": "消費者重視物價與折扣。",
+            "voice": "直述"
+          },
+          {
+            "say": "降價成效仍有待觀察。",
+            "voice": "直述"
+          }
+        ]
+      },
+      {
+        "role": "視覺反差",
+        "lines": [
+          {
+            "say": "把「Albertsons是美國大型連鎖超市」與「降價成效仍有待觀察」放在一起看。",
+            "voice": "並排"
+          },
+          {
+            "say": "用自製圖卡呈現「公司撤回全年財務預測」。",
+            "voice": "並排"
+          },
+          {
+            "say": "再用時間線解釋「正檢討營運與成本結構」。",
+            "voice": "並排"
+          }
+        ]
+      },
+      {
+        "role": "核實收束",
+        "lines": [
+          {
+            "say": "注意：改革計畫不等於已全面降價。",
+            "voice": "直述"
+          },
+          {
+            "say": "你覺得這件事最值得追蹤哪個後續？",
+            "voice": "直述"
+          }
+        ]
+      }
+    ],
+    "close": "不能講錯的事實：改革計畫不等於已全面降價。發布前需再確認原始報導與素材授權。"
+  },
+  "rights": "新聞圖片、電影預告、社群影片與新聞畫面需取得授權；優先使用自製圖卡、示意動畫。"
+}
