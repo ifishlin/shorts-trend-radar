@@ -1,0 +1,323 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15 08:39 CEST",
+  "new": 8,
+  "retained": 26,
+  "total": 34,
+  "pending": 10,
+  "categories": {
+    "明星／電影／網紅": 12,
+    "奇聞／神祕／意外": 5,
+    "科技／太空／AI": 9,
+    "美國社會／消費": 4,
+    "動物／懷舊／其他": 4
+  },
+  "topics": [
+    {
+      "id": "8ae27b99b9b0",
+      "title": "布蘭登・費雪與瑞秋・懷茲在《神鬼傳奇》新片片場重聚",
+      "category": "明星／電影／網紅",
+      "source_url": "https://people.com/brendan-fraser-rachel-weisz-reunite-on-set-of-new-the-mummy-movie-12173205",
+      "published": "2026-10-15",
+      "first_recommended": "2026-10-15",
+      "path": "topics/2026-10-15/event-8ae27b99b9b0.json"
+    },
+    {
+      "id": "0a1dce8c9f48",
+      "title": "Billy Crystal透露洛杉磯野火後唯一留下的重要紀念物",
+      "category": "明星／電影／網紅",
+      "source_url": "https://people.com/billy-crystal-found-one-key-item-after-losing-his-home-in-the-l-a-fires-exclusive-12170668",
+      "published": "2026-10-15",
+      "first_recommended": "2026-10-15",
+      "path": "topics/2026-10-15/event-0a1dce8c9f48.json"
+    },
+    {
+      "id": "fb17253ad890",
+      "title": "Raven-Symoné重返《The View》主持",
+      "category": "明星／電影／網紅",
+      "source_url": "https://people.com/raven-symone-returning-to-the-view-as-guest-co-host-30th-season-exclusive-12172051",
+      "published": "2026-10-14",
+      "first_recommended": "2026-10-15",
+      "path": "topics/2026-10-15/event-fb17253ad890.json"
+    },
+    {
+      "id": "67cdee062c01",
+      "title": "Taco Bell推出Kevin Hart、Paris Hilton與Doja Cat四美元套餐",
+      "category": "美國社會／消費",
+      "source_url": "https://people.com/taco-bell-launches-celebrity-meals-kevin-hart-paris-hilton-doja-cat-12173308",
+      "published": "2026-10-15",
+      "first_recommended": "2026-10-15",
+      "path": "topics/2026-10-15/event-67cdee062c01.json"
+    },
+    {
+      "id": "35ce8c4c8354",
+      "title": "全球金融穩定委員會呼籲強化代理型AI的人類監督",
+      "category": "科技／太空／AI",
+      "source_url": "https://www.reuters.com/legal/government/global-financial-watchdog-calls-more-human-oversight-agentic-ai-2026-10-15/",
+      "published": "2026-10-15",
+      "first_recommended": "2026-10-15",
+      "path": "topics/2026-10-15/event-35ce8c4c8354.json"
+    },
+    {
+      "id": "bc5c2296e90d",
+      "title": "台積電受AI晶片需求帶動連續六季創紀錄獲利",
+      "category": "科技／太空／AI",
+      "source_url": "https://www.reuters.com/world/asia-pacific/tsmc-expected-report-sixth-straight-quarter-record-profit-thanks-ai-boom-2026-10-14/",
+      "published": "2026-10-15",
+      "first_recommended": "2026-10-15",
+      "path": "topics/2026-10-15/event-bc5c2296e90d.json"
+    },
+    {
+      "id": "5e3a9219e205",
+      "title": "美國九月通膨高於預期，股市下跌",
+      "category": "美國社會／消費",
+      "source_url": "https://www.reuters.com/world/us/us-consumer-prices-accelerate-september-costlier-gasoline-core-cpi-firmer-2026-10-14/",
+      "published": "2026-10-14",
+      "first_recommended": "2026-10-15",
+      "path": "topics/2026-10-15/event-5e3a9219e205.json"
+    },
+    {
+      "id": "bccd787542b5",
+      "title": "DC《Clayface》新片採用身體恐怖風格",
+      "category": "明星／電影／網紅",
+      "source_url": "https://www.reuters.com/video/entertainment/",
+      "published": "2026-10-14",
+      "first_recommended": "2026-10-15",
+      "path": "topics/2026-10-15/event-bccd787542b5.json"
+    },
+    {
+      "id": "1cb69a4dcc80",
+      "title": "《納尼亞傳奇：魔法師的外甥》首支預告亮相",
+      "category": "明星／電影／網紅",
+      "source_url": "https://www.theguardian.com/film/2026/oct/13/narnia-trailer-netflix-greta-gerwig",
+      "published": "2026-10-13 15:10 EDT",
+      "first_recommended": "2026-10-14",
+      "path": "topics/2026-10-15/event-1cb69a4dcc80.json"
+    },
+    {
+      "id": "e86901b46746",
+      "title": "《海灘遊俠》重啟影集公開完整預告",
+      "category": "明星／電影／網紅",
+      "source_url": "https://deadline.com/2026/10/baywatch-reboot-full-trailer-release-fox-1237155347/",
+      "published": "2026-10-14（精確時間待核）",
+      "first_recommended": "2026-10-14",
+      "path": "topics/2026-10-15/event-e86901b46746.json"
+    },
+    {
+      "id": "d1358ea03b04",
+      "title": "HBO計畫召回《Girls》多數原班人馬",
+      "category": "明星／電影／網紅",
+      "source_url": "https://deadline.com/2026/10/girls-hbo-brings-back-lena-dunham-series-original-cast-1237155972/",
+      "published": "2026-10-14（精確時間待核）",
+      "first_recommended": "2026-10-14",
+      "path": "topics/2026-10-15/event-d1358ea03b04.json"
+    },
+    {
+      "id": "06a2509aed93",
+      "title": "《鍍金年代》第四季釋出新預告",
+      "category": "明星／電影／網紅",
+      "source_url": "https://deadline.com/2026/10/the-gilded-age-season-4-trailer-bertha-george-agnes-1237156081/",
+      "published": "2026-10-14（精確時間待核）",
+      "first_recommended": "2026-10-14",
+      "path": "topics/2026-10-15/event-06a2509aed93.json"
+    },
+    {
+      "id": "d765c0d78161",
+      "title": "《Miami Vice ’85》電影公布新增演員",
+      "category": "明星／電影／網紅",
+      "source_url": "https://deadline.com/2026/10/miami-vice-85-cast-haley-lu-richardson-1237154984/",
+      "published": "2026-10-14（精確時間待核）",
+      "first_recommended": "2026-10-14",
+      "path": "topics/2026-10-15/event-d765c0d78161.json"
+    },
+    {
+      "id": "e64132afbc32",
+      "title": "Raven-Symoné重返《The View》擔任來賓主持",
+      "category": "明星／電影／網紅",
+      "source_url": "https://people.com/raven-symone-returning-to-the-view-as-guest-co-host-30th-season-exclusive-12172051",
+      "published": "2026-10-13（精確時間待核）",
+      "first_recommended": "2026-10-14",
+      "path": "topics/2026-10-15/event-e64132afbc32.json"
+    },
+    {
+      "id": "d85a757000c8",
+      "title": "德國客機誤發劫機代碼，戰機緊急護航",
+      "category": "奇聞／神祕／意外",
+      "source_url": "https://www.reuters.com/world/germanys-nuremberg-airport-closes-due-aviation-emergency-2026-10-13/",
+      "published": "2026-10-13 10:46 UTC",
+      "first_recommended": "2026-10-14",
+      "path": "topics/2026-10-15/event-d85a757000c8.json"
+    },
+    {
+      "id": "ffdf3d7a0053",
+      "title": "鳳凰城機場在Mac mini內發現可疑物品",
+      "category": "奇聞／神祕／意外",
+      "source_url": "https://people.com/drugs-found-in-mac-mini-desktop-computer-at-phoenix-airport-12170621",
+      "published": "2026-10-12（事件10月9日）",
+      "first_recommended": "2026-10-14",
+      "path": "topics/2026-10-15/event-ffdf3d7a0053.json"
+    },
+    {
+      "id": "63227a6133ee",
+      "title": "蘋果發表HomeView智慧家庭螢幕",
+      "category": "科技／太空／AI",
+      "source_url": "https://www.reuters.com/business/retail-consumer/apple-unveil-new-smart-home-products-showcasing-updated-siri-ai-2026-10-13/",
+      "published": "2026-10-13",
+      "first_recommended": "2026-10-14",
+      "path": "topics/2026-10-15/event-63227a6133ee.json"
+    },
+    {
+      "id": "a583a47ffe59",
+      "title": "Google開放歐洲科學家使用先進AI模型",
+      "category": "科技／太空／AI",
+      "source_url": "https://www.reuters.com/technology/google-deepmind-google-cloud-allow-european-researchers-access-frontier-models-2026-10-14/",
+      "published": "2026-10-14（精確時間待核）",
+      "first_recommended": "2026-10-14",
+      "path": "topics/2026-10-15/event-a583a47ffe59.json"
+    },
+    {
+      "id": "6e5d97d768d2",
+      "title": "美國超市Albertsons撤回全年財測",
+      "category": "美國社會／消費",
+      "source_url": "https://www.reuters.com/business/us-grocer-albertsons-suspends-full-year-forecasts-amid-business-review-2026-10-13/",
+      "published": "2026-10-13",
+      "first_recommended": "2026-10-14",
+      "path": "topics/2026-10-15/event-6e5d97d768d2.json"
+    },
+    {
+      "id": "30fb1d31bb7b",
+      "title": "美國AI財富熱潮與家庭物價壓力同時存在",
+      "category": "美國社會／消費",
+      "source_url": "https://www.reuters.com/business/finance/us-a-wealth-boom-price-shock-collide-2026-10-12/",
+      "published": "2026-10-12",
+      "first_recommended": "2026-10-14",
+      "path": "topics/2026-10-15/event-30fb1d31bb7b.json"
+    },
+    {
+      "id": "ff0ced4ed0cd",
+      "title": "英國化石揭露巨盜龍類新物種",
+      "category": "動物／懷舊／其他",
+      "source_url": "https://www.reuters.com/science/isle-wight-fossil-sheds-light-enigmatic-meat-eating-dinosaurs-2026-10-13/",
+      "published": "2026-10-13",
+      "first_recommended": "2026-10-14",
+      "path": "topics/2026-10-15/event-ff0ced4ed0cd.json"
+    },
+    {
+      "id": "5cf09a77a2a2",
+      "title": "乾涸濕地救出的13隻烏龜重返家園",
+      "category": "動物／懷舊／其他",
+      "source_url": "https://www.theguardian.com/australia-news/2026/oct/13/rescued-turtles-return-home-after-nsw-government-cut-flows-to-wetland",
+      "published": "2026-10-13",
+      "first_recommended": "2026-10-14",
+      "path": "topics/2026-10-15/event-5cf09a77a2a2.json"
+    },
+    {
+      "id": "12e1227632f9",
+      "title": "Priscilla Presley領養10歲高齡救援犬",
+      "category": "動物／懷舊／其他",
+      "source_url": "https://people.com/priscilla-presley-introduces-her-new-senior-rescue-dog-toby-12172324",
+      "published": "2026-10-13（貼文日期）",
+      "first_recommended": "2026-10-14",
+      "path": "topics/2026-10-15/event-12e1227632f9.json"
+    },
+    {
+      "id": "79685a539dfc",
+      "title": "微軟計畫部署自家AI晶片",
+      "category": "科技／太空／AI",
+      "source_url": "https://www.reuters.com/business/microsoft-plans-huge-deployment-its-own-ai-chips-with-an-eye-saving-costs-2026-10-12/",
+      "published": "2026-10-12",
+      "first_recommended": "2026-10-13",
+      "path": "topics/2026-10-15/event-79685a539dfc.json"
+    },
+    {
+      "id": "abdc3aa731d4",
+      "title": "安德魯・加菲爾德與莫妮卡・巴巴羅宣傳《Artificial》",
+      "category": "明星／電影／網紅",
+      "source_url": "https://www.imdb.com/news/ni66058694/",
+      "published": "時間待核實",
+      "first_recommended": "2026-10-12",
+      "path": "topics/2026-10-15/event-abdc3aa731d4.json"
+    },
+    {
+      "id": "01195f29f29b",
+      "title": "Hulu紀錄片回顧2016年恐怖小丑恐慌",
+      "category": "奇聞／神祕／意外",
+      "source_url": "https://www.imdb.com/news/ni66058714/",
+      "published": "時間待核實",
+      "first_recommended": "2026-10-12",
+      "path": "topics/2026-10-15/event-01195f29f29b.json"
+    },
+    {
+      "id": "3da4a67c1164",
+      "title": "法國超市冷藏設備遭駭客升溫",
+      "category": "奇聞／神祕／意外",
+      "source_url": "https://www.reuters.com/business/retail-consumer/french-supermarket-chain-intermarche-hit-by-cyberattack-150-stories-targeted-2026-10-12/",
+      "published": "2026-10-12",
+      "first_recommended": "2026-10-13",
+      "path": "topics/2026-10-15/event-3da4a67c1164.json"
+    },
+    {
+      "id": "76bf222eea6f",
+      "title": "Anthropic警告AI可能在網路自行複製",
+      "category": "科技／太空／AI",
+      "source_url": "https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/",
+      "published": "2026-10-13 05:14 UTC",
+      "first_recommended": "2026-10-14",
+      "path": "topics/2026-10-15/event-76bf222eea6f.json"
+    },
+    {
+      "id": "f861ac5e944e",
+      "title": "約400名科學家呼籲國際AI安全監管",
+      "category": "科技／太空／AI",
+      "source_url": "https://www.reuters.com/legal/litigation/scientists-call-international-body-oversee-advanced-ai-2026-10-13/",
+      "published": "2026-10-13",
+      "first_recommended": "2026-10-14",
+      "path": "topics/2026-10-15/event-f861ac5e944e.json"
+    },
+    {
+      "id": "5eb0b8cd3245",
+      "title": "Longshot測試巨型發射管構想",
+      "category": "科技／太空／AI",
+      "source_url": "https://techcrunch.com/2026/10/13/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026/",
+      "published": "2026-10-13 11:05 PDT",
+      "first_recommended": "2026-10-14",
+      "path": "topics/2026-10-15/event-5eb0b8cd3245.json"
+    },
+    {
+      "id": "fc6bb8acdd1f",
+      "title": "瑞典將建置AMD晶片AI超級電腦",
+      "category": "科技／太空／AI",
+      "source_url": "https://www.reuters.com/business/media-telecom/scaleway-build-amd-powered-ai-supercomputer-sweden-2026-10-13/",
+      "published": "2026-10-13 10:50 UTC",
+      "first_recommended": "2026-10-14",
+      "path": "topics/2026-10-15/event-fc6bb8acdd1f.json"
+    },
+    {
+      "id": "e5b2d6d51c17",
+      "title": "澳洲果蝠因食物短缺面臨飢餓危機",
+      "category": "動物／懷舊／其他",
+      "source_url": "https://www.theguardian.com/environment/2026/oct/14/flying-foxes-in-nsw-and-victoria-face-mass-starvation-amid-food-shortages",
+      "published": "2026-10-14",
+      "first_recommended": "2026-10-14",
+      "path": "topics/2026-10-15/event-e5b2d6d51c17.json"
+    },
+    {
+      "id": "5dafca985f3f",
+      "title": "Six Flags事故後暫停九座雲霄飛車",
+      "category": "奇聞／神祕／意外",
+      "source_url": "https://apnews.com/article/3c643c8984f32370c9cd2123c53a1031",
+      "published": "2026-10-12",
+      "first_recommended": "2026-10-14",
+      "path": "topics/2026-10-15/event-5dafca985f3f.json"
+    },
+    {
+      "id": "8ea80e5ada7e",
+      "title": "《The Game》演員20週年重聚",
+      "category": "明星／電影／網紅",
+      "source_url": "https://people.com/star-tracks-tuesday-october-13-2026-new-celebrity-photos-updated-daily-12171002",
+      "published": "2026-10-13",
+      "first_recommended": "2026-10-14",
+      "path": "topics/2026-10-15/event-8ea80e5ada7e.json"
+    }
+  ]
+}
