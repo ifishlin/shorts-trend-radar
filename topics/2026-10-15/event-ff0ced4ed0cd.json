@@ -1,0 +1,116 @@
+{
+  "id": "ff0ced4ed0cd",
+  "title": "英國化石揭露巨盜龍類新物種",
+  "category": "動物／懷舊／其他",
+  "section": "已有新聞報導",
+  "source_url": "https://www.reuters.com/science/isle-wight-fossil-sheds-light-enigmatic-meat-eating-dinosaurs-2026-10-13/",
+  "published": "2026-10-13",
+  "source": "Reuters",
+  "summary": "化石來自英國懷特島；新物種名為Invictibellatrix amberina。",
+  "facts": [
+    "化石來自英國懷特島",
+    "新物種名為Invictibellatrix amberina",
+    "牠生活於約1.2億年前",
+    "巨盜龍類以強壯前肢與手爪著稱",
+    "體型及羽毛特徵部分來自近親推估"
+  ],
+  "hook": "A dinosaur that hunted with huge claws?",
+  "caution": "羽毛與獵食行為不是直接化石證據",
+  "news_status": "新聞已核實",
+  "time_status": "72小時內已確認",
+  "trend_status": "熱度未驗證",
+  "first_recommended": "2026-10-14",
+  "recommendation_label": "先前已推薦",
+  "production": {
+    "story": 18,
+    "novelty": 12,
+    "visual": 14,
+    "clarity": 9,
+    "total": 53
+  },
+  "trend": {
+    "search_growth": "未取得／未驗證",
+    "social_growth": "未取得／未驗證",
+    "independent_media": "未取得／未驗證",
+    "verified_score": 0,
+    "evaluable_max": 0,
+    "total_max": 40
+  },
+  "us_audience_fit": {
+    "familiarity": 3,
+    "comprehensibility": 4,
+    "hook": 4,
+    "legal_visuals": 4,
+    "total": 15
+  },
+  "outline": {
+    "sections": [
+      {
+        "role": "懸念開場",
+        "lines": [
+          {
+            "say": "這則新聞的懸念是：英國化石揭露巨盜龍類新物種？",
+            "voice": "直球"
+          },
+          {
+            "say": "化石來自英國懷特島。",
+            "voice": "直球"
+          }
+        ]
+      },
+      {
+        "role": "事件事實",
+        "lines": [
+          {
+            "say": "新物種名為Invictibellatrix amberina。",
+            "voice": "直述"
+          },
+          {
+            "say": "牠生活於約1.2億年前。",
+            "voice": "直述"
+          },
+          {
+            "say": "巨盜龍類以強壯前肢與手爪著稱。",
+            "voice": "直述"
+          },
+          {
+            "say": "體型及羽毛特徵部分來自近親推估。",
+            "voice": "直述"
+          }
+        ]
+      },
+      {
+        "role": "視覺反差",
+        "lines": [
+          {
+            "say": "把「化石來自英國懷特島」與「體型及羽毛特徵部分來自近親推估」放在一起看。",
+            "voice": "並排"
+          },
+          {
+            "say": "用自製圖卡呈現「新物種名為Invictibellatrix amberina」。",
+            "voice": "並排"
+          },
+          {
+            "say": "再用時間線解釋「牠生活於約1.2億年前」。",
+            "voice": "並排"
+          }
+        ]
+      },
+      {
+        "role": "核實收束",
+        "lines": [
+          {
+            "say": "注意：羽毛與獵食行為不是直接化石證據。",
+            "voice": "直述"
+          },
+          {
+            "say": "你覺得這件事最值得追蹤哪個後續？",
+            "voice": "直述"
+          }
+        ]
+      }
+    ],
+    "close": "不能講錯的事實：羽毛與獵食行為不是直接化石證據。發布前需再確認原始報導與素材授權。"
+  },
+  "rights": "新聞圖片、電影預告、社群影片與新聞畫面需取得授權；優先使用自製圖卡、示意動畫。"
+}
