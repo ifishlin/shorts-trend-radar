@@ -1,0 +1,116 @@
+{
+  "id": "5dafca985f3f",
+  "title": "Six Flags事故後暫停九座雲霄飛車",
+  "category": "奇聞／神祕／意外",
+  "section": "已有新聞報導",
+  "source_url": "https://apnews.com/article/3c643c8984f32370c9cd2123c53a1031",
+  "published": "2026-10-12",
+  "source": "AP",
+  "summary": "喬治亞州Six Flags發生致命事故；園方暫停九座類似雲霄飛車。",
+  "facts": [
+    "喬治亞州Six Flags發生致命事故",
+    "園方暫停九座類似雲霄飛車",
+    "事故仍由相關單位調查",
+    "部分設施位於不同州",
+    "可討論美國遊樂園安全監管差異"
+  ],
+  "hook": "Why did Six Flags close nine roller coasters?",
+  "caution": "事故原因未定，不要斷言責任歸屬",
+  "news_status": "新聞已核實",
+  "time_status": "72小時內已確認",
+  "trend_status": "熱度未驗證",
+  "first_recommended": "2026-10-14",
+  "recommendation_label": "先前已推薦",
+  "production": {
+    "story": 19,
+    "novelty": 14,
+    "visual": 13,
+    "clarity": 9,
+    "total": 55
+  },
+  "trend": {
+    "search_growth": "未取得／未驗證",
+    "social_growth": "未取得／未驗證",
+    "independent_media": "未取得／未驗證",
+    "verified_score": 0,
+    "evaluable_max": 0,
+    "total_max": 40
+  },
+  "us_audience_fit": {
+    "familiarity": 3,
+    "comprehensibility": 4,
+    "hook": 5,
+    "legal_visuals": 3,
+    "total": 15
+  },
+  "outline": {
+    "sections": [
+      {
+        "role": "懸念開場",
+        "lines": [
+          {
+            "say": "這則新聞的懸念是：Six Flags事故後暫停九座雲霄飛車？",
+            "voice": "直球"
+          },
+          {
+            "say": "喬治亞州Six Flags發生致命事故。",
+            "voice": "直球"
+          }
+        ]
+      },
+      {
+        "role": "事件事實",
+        "lines": [
+          {
+            "say": "園方暫停九座類似雲霄飛車。",
+            "voice": "直述"
+          },
+          {
+            "say": "事故仍由相關單位調查。",
+            "voice": "直述"
+          },
+          {
+            "say": "部分設施位於不同州。",
+            "voice": "直述"
+          },
+          {
+            "say": "可討論美國遊樂園安全監管差異。",
+            "voice": "直述"
+          }
+        ]
+      },
+      {
+        "role": "視覺反差",
+        "lines": [
+          {
+            "say": "把「喬治亞州Six Flags發生致命事故」與「可討論美國遊樂園安全監管差異」放在一起看。",
+            "voice": "並排"
+          },
+          {
+            "say": "用自製圖卡呈現「園方暫停九座類似雲霄飛車」。",
+            "voice": "並排"
+          },
+          {
+            "say": "再用時間線解釋「事故仍由相關單位調查」。",
+            "voice": "並排"
+          }
+        ]
+      },
+      {
+        "role": "核實收束",
+        "lines": [
+          {
+            "say": "注意：事故原因未定，不要斷言責任歸屬。",
+            "voice": "直述"
+          },
+          {
+            "say": "你覺得這件事最值得追蹤哪個後續？",
+            "voice": "直述"
+          }
+        ]
+      }
+    ],
+    "close": "不能講錯的事實：事故原因未定，不要斷言責任歸屬。發布前需再確認原始報導與素材授權。"
+  },
+  "rights": "新聞圖片、電影預告、社群影片與新聞畫面需取得授權；優先使用自製圖卡、示意動畫。"
+}
