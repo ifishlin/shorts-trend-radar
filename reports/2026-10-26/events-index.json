@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-26",
+  "A_count": 15,
+  "B_count": 15,
+  "overlap_count": 10,
+  "first_recommended": "2026-10-26",
+  "source": "ChatGPT Shorts 雙榜日報",
+  "full_reports": "未能透過連接器同步HTML；完整HTML與JSON保存在本次對話附件",
+  "heat_status": "社群升溫未驗證",
+  "events": [
+    {
+      "event_id": "6eb55d01742c",
+      "title": "猴子泡熱水池",
+      "source_url": "https://www.tag24.com/en/topic/viral-video-of-the-day/viral-video-of-the-day-for-october-25-2026-this-monkey-has-higher-hot-tub-standards-than-you-do-3536303",
+      "boards": "A",
+      "first_recommended": "2026-10-26"
+    },
+    {
+      "event_id": "5dadfd3daf0c",
+      "title": "每天等淋浴的貓",
+      "source_url": "https://paradepets.com/pet-news/funny-cat-waits-in-shower-to-play-in-water",
+      "boards": "A",
+      "first_recommended": "2026-10-26"
+    },
+    {
+      "event_id": "bf53b1a7628b",
+      "title": "老狗最後一次游泳",
+      "source_url": "https://paradepets.com/pet-news/senior-rescue-labs-final-wish-to-swim-granted",
+      "boards": "A",
+      "first_recommended": "2026-10-26"
+    },
+    {
+      "event_id": "f3302151eaf4",
+      "title": "救援鸚鵡踏上主人手",
+      "source_url": "https://paradepets.com/pet-news/rescue-cockatoo-in-sweater-stepping-up-first-time",
+      "boards": "A",
+      "first_recommended": "2026-10-26"
+    },
+    {
+      "event_id": "65f93ff3887a",
+      "title": "老狗吠叫跌倒",
+      "source_url": "https://paradepets.com/pet-news/senior-dog-max-barks-knocks-himself-over",
+      "boards": "A",
+      "first_recommended": "2026-10-26"
+    },
+    {
+      "event_id": "ff0be88f133c",
+      "title": "南瓜雕刻工程師",
+      "source_url": "https://apnews.com/article/95af0b1752f6ff1b361a7cfd1769841d",
+      "boards": "AB",
+      "first_recommended": "2026-10-26"
+    },
+    {
+      "event_id": "c90aabac1a09",
+      "title": "ESPN吉祥物丟糖果",
+      "source_url": "https://people.com/espn-host-gets-annoyed-by-team-mascot-live-on-air-12193064",
+      "boards": "AB",
+      "first_recommended": "2026-10-26"
+    },
+    {
+      "event_id": "a8af4388d64c",
+      "title": "萬聖節五萬美元派對",
+      "source_url": "https://people.com/viral-queen-of-halloween-spent-over-50k-on-annual-halloween-party-exclusive-12190106",
+      "boards": "AB",
+      "first_recommended": "2026-10-26"
+    },
+    {
+      "event_id": "6dd8f8c6b2a3",
+      "title": "Blue Ivy鋼琴演出",
+      "source_url": "https://ew.com/blue-ivy-performs-destinys-child-reunites-jay-z-los-angeles-concert-12192964",
+      "boards": "AB",
+      "first_recommended": "2026-10-26"
+    },
+    {
+      "event_id": "4421bb2f3d23",
+      "title": "Olivia鴨子公投",
+      "source_url": "https://www.washingtonpost.com/dc-md-va/2026/10/25/meet-olivia-duck-quacking-keep-foie-gras-off-dc-menus/",
+      "boards": "AB",
+      "first_recommended": "2026-10-26"
+    },
+    {
+      "event_id": "66dcdd4e0b80",
+      "title": "SS United States人工礁",
+      "source_url": "https://apnews.com/article/25c8c8e9329ffb9b21acfc69879c624e",
+      "boards": "AB",
+      "first_recommended": "2026-10-26"
+    },
+    {
+      "event_id": "29df4072fe6d",
+      "title": "Heidi Klum造型預告",
+      "source_url": "https://people.com/heidi-klum-teases-her-2026-halloween-costume-ahead-of-her-annual-party-photo-12192873",
+      "boards": "AB",
+      "first_recommended": "2026-10-26"
+    },
+    {
+      "event_id": "79c818ea6f9c",
+      "title": "微塑膠ROS研究",
+      "source_url": "https://www.washingtonpost.com/climate-environment/2026/10/25/microplastics-create-dangerous-chemicals-when-mixed-with-water-researchers-find/",
+      "boards": "AB",
+      "first_recommended": "2026-10-26"
+    },
+    {
+      "event_id": "b032fd02ceec",
+      "title": "Elizabeth Holmes紀錄片票房",
+      "source_url": "https://apnews.com/article/911c6ce9644013ec4700b8aa7418eb3a",
+      "boards": "AB",
+      "first_recommended": "2026-10-26"
+    },
+    {
+      "event_id": "467bd4bad9c7",
+      "title": "Salem巫婆帽活動",
+      "source_url": "https://nypost.com/2026/10/24/real-estate/nearly-3000-witches-gather-in-salem-to-break-macabre-world-record-in-spooky-stunt/",
+      "boards": "AB",
+      "first_recommended": "2026-10-26"
+    },
+    {
+      "event_id": "87932c0252ba",
+      "title": "Florida A&M槍擊",
+      "source_url": "https://apnews.com/article/4799ccf2f063c5bf4633386a573bcd8e",
+      "boards": "B",
+      "first_recommended": "2026-10-26"
+    },
+    {
+      "event_id": "b1ece8a9547f",
+      "title": "萬聖節地方宵禁",
+      "source_url": "https://www.the-sun.com/news/17191119/americans-curfews-halloween-trick-or-treating/",
+      "boards": "B",
+      "first_recommended": "2026-10-26"
+    },
+    {
+      "event_id": "0d8fbaabf141",
+      "title": "紅毛猩猩幼體調查",
+      "source_url": "https://apnews.com/article/10e16dc6d7854a882b9716805ca1ee70",
+      "boards": "B",
+      "first_recommended": "2026-10-26"
+    },
+    {
+      "event_id": "2073c43f7029",
+      "title": "美加關稅談判",
+      "source_url": "https://www.reuters.com/world/us/trump-says-canada-tariff-deal-coming-soon-michigan-border-rally-2026-10-25/",
+      "boards": "B",
+      "first_recommended": "2026-10-26"
+    },
+    {
+      "event_id": "53180d8a443d",
+      "title": "梵谷星夜天文研究",
+      "source_url": "https://apnews.com/article/6385c8e37f748bddc4137cdda5c76887",
+      "boards": "B",
+      "first_recommended": "2026-10-26"
+    }
+  ]
+}
