@@ -1,0 +1,143 @@
+{
+  "date": "2026-10-27",
+  "A_count": 15,
+  "B_count": 13,
+  "overlap_count": 9,
+  "heat_status": "社群觀看／搜尋增速未驗證",
+  "full_reports": "完整HTML與JSON在本次對話附件，Gmail寄送遭BLOCKED_FILE_REFERENCE",
+  "events": [
+    {
+      "event_id": "8f27f432fcba",
+      "title": "三歲足球爭議",
+      "source_url": "https://www.tmz.com/2026/10/26/florida-toddler-soccer-game-scandal-on-bodycam/",
+      "boards": "AB",
+      "first_recommended": "2026-10-27"
+    },
+    {
+      "event_id": "a1d72c62d900",
+      "title": "求婚毛毛裝亂入",
+      "source_url": "https://www.news.com.au/lifestyle/relationships/dating/id-be-fuming-romantic-park-proposal-divides-internet-as-furries-photobomb-couple/news-story/66951cabdcd1af1125ff18ff55d49b69",
+      "boards": "A",
+      "first_recommended": "2026-10-27"
+    },
+    {
+      "event_id": "82f4086e1f15",
+      "title": "Hocus Pocus九歲粉絲遇演員",
+      "source_url": "https://people.com/girl-dressed-as-dani-from-hocus-pocus-recreates-scene-with-original-stars-exclusive-12172335",
+      "boards": "AB",
+      "first_recommended": "2026-10-27"
+    },
+    {
+      "event_id": "8e924025a26c",
+      "title": "Taylor Swift巡演巴士蟋蟀",
+      "source_url": "https://www.tmz.com/2026/10/26/taylor-swift-jokes-about-brad-paisley-relationship/",
+      "boards": "AB",
+      "first_recommended": "2026-10-27"
+    },
+    {
+      "event_id": "43fc314f25b2",
+      "title": "Jay-Z超級盃中場秀",
+      "source_url": "https://www.tmz.com/2026/10/26/jay-z-performing-super-bowl-halftime-show/",
+      "boards": "AB",
+      "first_recommended": "2026-10-27"
+    },
+    {
+      "event_id": "1670f2e42fef",
+      "title": "Paris Hilton全家美女與野獸",
+      "source_url": "https://people.com/paris-hilton-husband-and-their-2-kids-pose-in-beauty-and-the-beast-costumes-12195397",
+      "boards": "AB",
+      "first_recommended": "2026-10-27"
+    },
+    {
+      "event_id": "4b8de1dae729",
+      "title": "D-rex巨大真菌",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261025073034.htm",
+      "boards": "AB",
+      "first_recommended": "2026-10-27"
+    },
+    {
+      "event_id": "b8cca97395d6",
+      "title": "Keanu Reeves1993年舊劇本",
+      "source_url": "https://pagesix.com/2026/10/26/hollywood/keanu-reeves-to-star-in-netflix-revival-of-die-hard-inspired-action-movie-first-pitched-in-1993/",
+      "boards": "AB",
+      "first_recommended": "2026-10-27"
+    },
+    {
+      "event_id": "2b999dbc95db",
+      "title": "盲眼米格魯英雄犬入圍",
+      "source_url": "https://www.ourmidland.com/news/article/blind-beagle-hero-dog-finals-22494280.php",
+      "boards": "AB",
+      "first_recommended": "2026-10-27"
+    },
+    {
+      "event_id": "6f9edcd3408c",
+      "title": "Eric André與Chet Hanks",
+      "source_url": "https://www.tmz.com/2026/10/26/eric-andre-jokes-chet-hanks-was-flirting-with-him/",
+      "boards": "A",
+      "first_recommended": "2026-10-27"
+    },
+    {
+      "event_id": "3073e86d873a",
+      "title": "Chrishell分手與前任留言",
+      "source_url": "https://www.tmz.com/2026/10/26/jason-oppenheim-offers-support-to-ex-chrishell-stause-after-breakup/",
+      "boards": "AB",
+      "first_recommended": "2026-10-27"
+    },
+    {
+      "event_id": "0799c9bf02b7",
+      "title": "Ric Flair戴眼罩現身",
+      "source_url": "https://www.tmz.com/2026/10/26/ric-flair-seen-wearing-eye-patch/",
+      "boards": "A",
+      "first_recommended": "2026-10-27"
+    },
+    {
+      "event_id": "3f56e90b04e7",
+      "title": "Camille Grammer指控忘記生日",
+      "source_url": "https://www.tmz.com/2026/10/26/camille-grammer-criticizes-kelsey-for-allegedly-forgetting-mason-birthday/",
+      "boards": "A",
+      "first_recommended": "2026-10-27"
+    },
+    {
+      "event_id": "3be9b62181bd",
+      "title": "Benito與Owen萬聖節模仿歌手",
+      "source_url": "https://people.com/overcompensating-costars-benito-skinner-owen-thiele-channel-pinkpantheress-zara-larsson-halloween-2026-12194612",
+      "boards": "A",
+      "first_recommended": "2026-10-27"
+    },
+    {
+      "event_id": "064a43832b4f",
+      "title": "光頭刺蝟Ollie",
+      "source_url": "https://nypost.com/2026/10/26/world-news/rescuers-save-bald-hedgehog-after-infection-made-it-lose-all-its-prickles/",
+      "boards": "A",
+      "first_recommended": "2026-10-27"
+    },
+    {
+      "event_id": "707165e9984b",
+      "title": "Reuters Ipsos生活成本民調",
+      "source_url": "https://www.reuters.com/world/us/trump-approval-rises-record-low-32-ahead-midterm-election-reuters-ipsos-poll-2026-10-26/",
+      "boards": "B",
+      "first_recommended": "2026-10-27"
+    },
+    {
+      "event_id": "db4f621a28dd",
+      "title": "James Comey司法新程序",
+      "source_url": "https://www.reuters.com/world/ex-fbi-director-comey-charged-again-by-us-justice-department-nbc-news-reports-2026-10-26/",
+      "boards": "B",
+      "first_recommended": "2026-10-27"
+    },
+    {
+      "event_id": "68d09a9454d9",
+      "title": "田納西逃犯卡車影片",
+      "source_url": "https://www.tmz.com/2026/10/26/jacob-allen-morley-caught-stealing-truck/",
+      "boards": "B",
+      "first_recommended": "2026-10-27"
+    },
+    {
+      "event_id": "21087d12579e",
+      "title": "JetBlue燃油成本上升",
+      "source_url": "https://www.reuters.com/business/jetblue-airways-posts-wider-quarterly-loss-surging-fuel-costs-2026-10-26/",
+      "boards": "B",
+      "first_recommended": "2026-10-27"
+    }
+  ]
+}
