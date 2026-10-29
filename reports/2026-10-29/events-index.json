@@ -1,0 +1,180 @@
+{
+  "date": "2026-10-29",
+  "A_count": 15,
+  "B_count": 15,
+  "overlap_count": 6,
+  "screened_leads": 65,
+  "heat_status": "原始社群連續增速未驗證",
+  "email_status": "A、B兩封均遭BLOCKED_FILE_REFERENCE；SENT無今日郵件",
+  "full_reports": "HTML及JSON已產生並保存在本次對話下載附件，未能透過連接器同步",
+  "events": [
+    {
+      "event_id": "f3b98d0d809d",
+      "title": "遛狗時老鼠爬進頭髮",
+      "boards": "AB",
+      "first_recommended": "2026-10-29",
+      "source_url": "https://people.com/woman-finds-something-shocking-in-her-hair-while-taking-dog-for-a-walk-exclusive-12198516"
+    },
+    {
+      "event_id": "6367b1a5ec61",
+      "title": "十年訂婚後在加油站結婚",
+      "boards": "AB",
+      "first_recommended": "2026-10-29",
+      "source_url": "https://people.com/couple-marries-at-gas-station-where-bride-works-after-10-year-engagement-exclusive-12198698"
+    },
+    {
+      "event_id": "fee26c03a491",
+      "title": "湯匙主題一歲生日派對",
+      "boards": "A",
+      "first_recommended": "2026-10-29",
+      "source_url": "https://people.com/boy-has-spoon-themed-first-birthday-party-12196497"
+    },
+    {
+      "event_id": "1edbf725b25e",
+      "title": "Jamie Lee Curtis 1981年漂髮回憶",
+      "boards": "A",
+      "first_recommended": "2026-10-29",
+      "source_url": "https://people.com/jamie-lee-curtis-hair-been-burned-off-80s-throwback-clip-12199103"
+    },
+    {
+      "event_id": "b954efc06161",
+      "title": "Erin Foster真實求婚啟發影集",
+      "boards": "A",
+      "first_recommended": "2026-10-29",
+      "source_url": "https://people.com/erin-foster-posts-unseen-footage-of-her-psychotically-romantic-engagement-that-inspired-nobody-wants-this-proposal-12199617"
+    },
+    {
+      "event_id": "ce87fd9ca222",
+      "title": "水豚Samba逃跑七個月新目擊",
+      "boards": "AB",
+      "first_recommended": "2026-10-29",
+      "source_url": "https://people.com/capybara-who-escaped-from-zoo-7-months-ago-spotted-alive-and-well-on-camera-12198120"
+    },
+    {
+      "event_id": "93b6c91314ac",
+      "title": "犀鳥3D列印上下義喙",
+      "boards": "AB",
+      "first_recommended": "2026-10-29",
+      "source_url": "https://people.com/hornbill-makes-history-as-first-bird-to-get-3d-printer-prothesis-for-upper-and-lower-beak-12182026"
+    },
+    {
+      "event_id": "eb20d66ca988",
+      "title": "Rita Wilson回憶Led Zeppelin演唱會跌倒",
+      "boards": "A",
+      "first_recommended": "2026-10-29",
+      "source_url": "https://people.com/rita-wilson-faceplanted-on-pavement-at-led-zeppelin-concert-12199367"
+    },
+    {
+      "event_id": "9b10a1b69655",
+      "title": "Elizabeth Taylor 1990年萬聖節扮小丑",
+      "boards": "A",
+      "first_recommended": "2026-10-29",
+      "source_url": "https://people.com/elizabeth-taylor-had-barnum-and-bailey-makeup-artists-disguise-her-as-a-clown-one-halloween-exclusive-12195542"
+    },
+    {
+      "event_id": "9eefc544baf7",
+      "title": "Build-A-Bear 1999吉祥物回歸",
+      "boards": "A",
+      "first_recommended": "2026-10-29",
+      "source_url": "https://people.com/build-a-bear-kicks-off-their-30th-anniversary-with-a-new-plush-inspired-by-their-original-mascot-12198635"
+    },
+    {
+      "event_id": "b8da2b1d97a8",
+      "title": "兩歲女孩不願親青蛙",
+      "boards": "A",
+      "first_recommended": "2026-10-29",
+      "source_url": "https://people.com/mom-captures-toddler-daughter-s-hilarious-reaction-to-the-plot-of-the-princess-and-the-frog-exclusive-12198125"
+    },
+    {
+      "event_id": "6dfc78419a2d",
+      "title": "華府高跟鞋賽跑39週年",
+      "boards": "AB",
+      "first_recommended": "2026-10-29",
+      "source_url": "https://www.washingtonpost.com/dc-md-va/interactive/2026/10/28/photos-dc-annual-high-heel-race/"
+    },
+    {
+      "event_id": "1007e3c92706",
+      "title": "亞馬遜巨型犰狳寶寶罕見影像",
+      "boards": "AB",
+      "first_recommended": "2026-10-29",
+      "source_url": "https://people.com/rare-footage-shows-baby-giant-armadillo-in-the-peruvian-amazon-12190404"
+    },
+    {
+      "event_id": "5587f9630293",
+      "title": "Noah Wyle垃圾桶蓋對抗鴯鶓",
+      "boards": "A",
+      "first_recommended": "2026-10-29",
+      "source_url": "https://people.com/noah-wyle-recalls-encounter-with-giant-bird-and-not-wanting-to-be-killed-by-an-emu-12198904"
+    },
+    {
+      "event_id": "925f8506d133",
+      "title": "失去雙腳鴨子Stu練習義足",
+      "boards": "A",
+      "first_recommended": "2026-10-29",
+      "source_url": "https://people.com/footless-duck-named-stu-gets-prosthetic-feet-super-excited-12199717"
+    },
+    {
+      "event_id": "5ee9db4bf71c",
+      "title": "Jamie Lee Curtis模仿Elizabeth Holmes",
+      "boards": "B",
+      "first_recommended": "2026-10-29",
+      "source_url": "https://people.com/jamie-lee-curtis-plays-elizabeth-holmes-for-jimmy-fallon-s-you-can-see-everything-parody-12199920"
+    },
+    {
+      "event_id": "69051c5e815d",
+      "title": "Kim Kardashian傳記烏干達事件",
+      "boards": "B",
+      "first_recommended": "2026-10-29",
+      "source_url": "https://people.com/kim-kardashian-gun-to-her-head-during-incident-2018-trip-to-africa-with-kanye-west-12198291"
+    },
+    {
+      "event_id": "3073e86d873a",
+      "title": "Chrishell與G Flip四場婚禮法律狀態",
+      "boards": "B",
+      "first_recommended": "2026-10-27",
+      "source_url": "https://people.com/chrishell-stause-and-g-flip-were-never-legally-married-despite-4-weddings-12199062"
+    },
+    {
+      "event_id": "c2e319c81c2c",
+      "title": "亞利桑那州狗新世界螺旋蠅蛆病例",
+      "boards": "B",
+      "first_recommended": "2026-10-29",
+      "source_url": "https://www.reuters.com/world/us/us-confirms-new-world-screwworm-dog-arizona-2026-10-28/"
+    },
+    {
+      "event_id": "13c16705dbf4",
+      "title": "美國東西岸天文大潮淹水",
+      "boards": "B",
+      "first_recommended": "2026-10-29",
+      "source_url": "https://apnews.com/article/king-tides-florida-california-carolina-flooding-bd3d4258b785f428fdbdb961c4355a67"
+    },
+    {
+      "event_id": "deb831ac73f8",
+      "title": "FEC政治捐款申報網攻",
+      "boards": "B",
+      "first_recommended": "2026-10-29",
+      "source_url": "https://www.reuters.com/world/us/cyberattack-concealed-political-spending-by-big-donors-before-us-midterm-2026-10-28/"
+    },
+    {
+      "event_id": "e16f3c7221f0",
+      "title": "古代巨型鶴DNA分類更正",
+      "boards": "B",
+      "first_recommended": "2026-10-29",
+      "source_url": "https://people.com/scientists-solve-150-year-old-mystery-of-giant-bird-believed-to-be-extinct-turns-out-it-s-still-alive-today-12198987"
+    },
+    {
+      "event_id": "ae48f0f68b32",
+      "title": "Kenny Chesney悼念愛犬Poncho",
+      "boards": "B",
+      "first_recommended": "2026-10-29",
+      "source_url": "https://people.com/kenny-chesneys-dog-poncho-dies-you-were-one-heaven-of-a-dog-12199017"
+    },
+    {
+      "event_id": "279df5e73121",
+      "title": "Wagmor救援犬機構遭市府指控",
+      "boards": "B",
+      "first_recommended": "2026-10-29",
+      "source_url": "https://www.tmz.com/2026/10/28/celebrity-dog-broker-alleged-sold-breeder-puppies-as-rescues/"
+    }
+  ]
+}
