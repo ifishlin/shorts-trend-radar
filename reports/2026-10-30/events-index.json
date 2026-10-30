@@ -1,0 +1,153 @@
+{
+  "date": "2026-10-30",
+  "A_count": 15,
+  "B_count": 15,
+  "overlap_count": 10,
+  "screened_unique": 45,
+  "selected_unique": 20,
+  "heat_status": "未取得可核對的社群觀看或搜尋連續增速",
+  "email_status": "兩封郵件均遭BLOCKED_FILE_REFERENCE，未寄出",
+  "full_reports": "完整HTML與JSON在ChatGPT本次執行的下載附件；GitHub僅同步事件索引",
+  "events": [
+    {
+      "event_id": "sh-e9ffb61b2750",
+      "title": "Savannah Chrisley秘密婚禮",
+      "boards": "AB",
+      "source_url": "https://people.com/savannah-chrisley-and-jason-galanis-are-married-exclusive-12201371",
+      "first_recommended": "2026-10-30"
+    },
+    {
+      "event_id": "sh-b01e02d2a121",
+      "title": "Paris Hilton女兒選Chip新回應",
+      "boards": "AB",
+      "source_url": "https://ew.com/paris-hilton-defends-herself-from-criticism-over-kids-beauty-and-the-beast-halloween-costumes-12198636",
+      "first_recommended": "2026-10-27"
+    },
+    {
+      "event_id": "sh-c85d64983406",
+      "title": "Elizabeth Holmes紀錄片肉乾銷售暴增",
+      "boards": "AB",
+      "source_url": "https://www.tmz.com/2026/10/29/elizabeth-holmes-prison-jerky-spikes-in-sales/",
+      "first_recommended": "2026-10-30"
+    },
+    {
+      "event_id": "sh-5a445f03b164",
+      "title": "Drax狗狗諧音萬聖節服裝",
+      "boards": "AB",
+      "source_url": "https://pethelpful.com/pet-news/pit-bulls-simple-clever-halloween-costumes",
+      "first_recommended": "2026-10-30"
+    },
+    {
+      "event_id": "sh-f78ee430c010",
+      "title": "Tobi狗狗羽毛頭飾",
+      "boards": "A",
+      "source_url": "https://www.tag24.com/en/topic/viral-video-of-the-day/viral-video-of-the-day-for-october-28-2026-this-dog-is-not-impressed-with-his-halloween-costume-3536306",
+      "first_recommended": "2026-10-30"
+    },
+    {
+      "event_id": "sh-171e148d3e79",
+      "title": "白宮萬聖節總統專機飛越",
+      "boards": "AB",
+      "source_url": "https://www.washingtonpost.com/dc-md-va/2026/10/29/presidents-plane-conducts-dc-flyover-halloween-white-house-says/",
+      "first_recommended": "2026-10-30"
+    },
+    {
+      "event_id": "sh-30422ea503fa",
+      "title": "Jennifer Hudson蝴蝶造型",
+      "boards": "AB",
+      "source_url": "https://people.com/jennifer-hudson-show-halloween-costume-butterfly-exclusive-12198790",
+      "first_recommended": "2026-10-30"
+    },
+    {
+      "event_id": "sh-08bffc71e10d",
+      "title": "Paige Spiranac多角色萬聖節服裝",
+      "boards": "A",
+      "source_url": "https://www.tmz.com/photos/2026/10/29/paige-spiranac-sexy-halloween-costumes/",
+      "first_recommended": "2026-10-30"
+    },
+    {
+      "event_id": "sh-05a849f4eff3",
+      "title": "Christina Aguilera萬聖節預告",
+      "boards": "AB",
+      "source_url": "https://ew.com/christina-aguilera-nude-photo-halloween-costume-12200158",
+      "first_recommended": "2026-10-30"
+    },
+    {
+      "event_id": "sh-d2e81c6f109d",
+      "title": "Patrick Stewart逝世",
+      "boards": "AB",
+      "source_url": "https://apnews.com/article/8b38054ff74d4187a32158d78e345ad7",
+      "first_recommended": "2026-10-30"
+    },
+    {
+      "event_id": "sh-93094d942a54",
+      "title": "跳蛛睡眠研究",
+      "boards": "A",
+      "source_url": "https://www.natureworldnews.com/articles/73679/20261029/sleep-deprived-jumping-spiders-make-lost-rest-pointing-regulated-two-stage-sleep-arachnid.htm",
+      "first_recommended": "2026-10-30"
+    },
+    {
+      "event_id": "sh-2781850705b9",
+      "title": "James Webb萬聖節星雲影像",
+      "boards": "AB",
+      "source_url": "https://nypost.com/2026/10/29/lifestyle/james-webb-telescope-captured-spooky-new-image-thousands-of-light-years-away/",
+      "first_recommended": "2026-10-30"
+    },
+    {
+      "event_id": "sh-b2a37a873ca1",
+      "title": "41億年前火星隕石",
+      "boards": "AB",
+      "source_url": "https://www.reuters.com/science/martian-meteorite-found-sahara-is-41-billion-years-old-2026-10-29/",
+      "first_recommended": "2026-10-30"
+    },
+    {
+      "event_id": "sh-4bb669c5413a",
+      "title": "Patrick Mahomes南瓜園家庭照片",
+      "boards": "A",
+      "source_url": "https://people.com/brittany-and-patrick-mahomes-kids-pose-pumpkins-cute-snap-family-halloween-outing-12200005",
+      "first_recommended": "2026-10-30"
+    },
+    {
+      "event_id": "sh-79de5f3e0c23",
+      "title": "美國發音搜尋排名",
+      "boards": "A",
+      "source_url": "https://nypost.com/2026/10/27/lifestyle/the-most-mispronounced-words-in-the-us-revealed-in-new-report/",
+      "first_recommended": "2026-10-30"
+    },
+    {
+      "event_id": "sh-ac2a6c2c4908",
+      "title": "布魯克林萬聖節活動車禍",
+      "boards": "B",
+      "source_url": "https://www.tmz.com/2026/10/29/motorist-drives-into-halloween-event-causing-injuries-new-york-city/",
+      "first_recommended": "2026-10-30"
+    },
+    {
+      "event_id": "sh-46918c6f6b51",
+      "title": "軍事基地冰櫃疑似網攻",
+      "boards": "B",
+      "source_url": "https://www.reuters.com/technology/pentagon-treating-military-base-freezer-malfunctions-suspected-cyberattack-2026-10-29/",
+      "first_recommended": "2026-10-30"
+    },
+    {
+      "event_id": "sh-48cb11e7bb8c",
+      "title": "休士頓機場餐廳火災重新開放",
+      "boards": "B",
+      "source_url": "https://www.houstonchronicle.com/news/houston-texas/article/iah-fire-terminal-c-22501168.php",
+      "first_recommended": "2026-10-30"
+    },
+    {
+      "event_id": "sh-5d63cb3dc079",
+      "title": "美國十州資料中心限制提案",
+      "boards": "B",
+      "source_url": "https://www.reuters.com/legal/litigation/ai-data-center-boom-faces-backlash-us-ballot-box-2026-10-29/",
+      "first_recommended": "2026-10-30"
+    },
+    {
+      "event_id": "sh-b397ab528086",
+      "title": "ISS第100次美國太空漫步",
+      "boards": "B",
+      "source_url": "https://timesofindia.indiatimes.com/science/space/nasa-astronauts-anil-menon-and-joshua-kutryk-install-the-seventh-solar-array-on-the-iss-during-the-100th-us-spacewalk-spend-7-hours-upgrading-the-power-supply-outside-the-space-station/articleshow/135347000.cms",
+      "first_recommended": "2026-10-30"
+    }
+  ]
+}
