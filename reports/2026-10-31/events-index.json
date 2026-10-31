@@ -1,0 +1,181 @@
+{
+  "date": "2026-10-31",
+  "A_count": 15,
+  "B_count": 15,
+  "unique_count": 21,
+  "overlap_count": 9,
+  "screened_candidates": 37,
+  "email_status": "兩封Gmail均因BLOCKED_FILE_REFERENCE未寄出；SENT查無",
+  "heat_status": "未取得可靠的原始社群連續增速",
+  "reports": "完整HTML與JSON已保存於ChatGPT下載附件",
+  "events": [
+    {
+      "event_id": "sh-2c405824b8af",
+      "title": "McRib訴訟",
+      "boards": "AB",
+      "source_url": "https://www.reuters.com/legal/government/mcdonalds-must-face-lawsuit-over-mcrib-us-judge-rules-2026-10-30/",
+      "first_recommended": "2026-10-31",
+      "status": "2026-10-30新報導；事件本身可能較早"
+    },
+    {
+      "event_id": "sh-9ef0a58e7ec0",
+      "title": "旋轉木馬萬聖節裝爭議",
+      "boards": "AB",
+      "source_url": "https://people.com/mom-responds-to-backlash-over-daughter-s-intricate-carousel-halloween-costume-exclusive-12200829",
+      "first_recommended": "2026-10-31",
+      "status": "2026-10-30新報導；事件本身可能較早"
+    },
+    {
+      "event_id": "sh-c4b5a8c0fafd",
+      "title": "主播七年級照片造型",
+      "boards": "AB",
+      "source_url": "https://people.com/craig-melvins-seventh-grade-photo-inspires-hilarious-today-show-halloween-costume-12202221",
+      "first_recommended": "2026-10-31",
+      "status": "2026-10-30新報導；事件本身可能較早"
+    },
+    {
+      "event_id": "sh-23a0b5e4fb6c",
+      "title": "Harry Styles扮Elvis",
+      "boards": "AB",
+      "source_url": "https://people.com/harry-styles-harryween-elvis-costume-new-york-night-1-photos-12197277",
+      "first_recommended": "2026-10-31",
+      "status": "2026-10-30新報導；事件本身可能較早"
+    },
+    {
+      "event_id": "sh-2dd2bed72567",
+      "title": "Today節目NBC百年變裝",
+      "boards": "A",
+      "source_url": "https://people.com/today-show-halloween-costumes-2026-12198431",
+      "first_recommended": "2026-10-31",
+      "status": "2026-10-30新報導；事件本身可能較早"
+    },
+    {
+      "event_id": "sh-8f3a07543988",
+      "title": "The View萬聖節惡搞短劇",
+      "boards": "AB",
+      "source_url": "https://people.com/the-views-halloween-obsession-spoof-12202764",
+      "first_recommended": "2026-10-31",
+      "status": "2026-10-30新報導；事件本身可能較早"
+    },
+    {
+      "event_id": "sh-44827c2a3669",
+      "title": "紐約小孩自製萬聖節服裝",
+      "boards": "A",
+      "source_url": "https://nypost.com/2026/10/30/lifestyle/popular-halloween-costumes-seen-across-nyc-and-beyond/",
+      "first_recommended": "2026-10-31",
+      "status": "2026-10-30新報導；事件本身可能較早"
+    },
+    {
+      "event_id": "sh-3d6fad714086",
+      "title": "Ellen引體向上挑戰",
+      "boards": "A",
+      "source_url": "https://people.com/ellen-degeneres-does-pull-ups-at-68-trust-me-it-s-hard-12203545",
+      "first_recommended": "2026-10-31",
+      "status": "2026-10-30新報導；事件本身可能較早"
+    },
+    {
+      "event_id": "sh-f883b92b9b56",
+      "title": "Ron King驢子救援",
+      "boards": "A",
+      "source_url": "https://people.com/5-years-ago-man-opened-first-donkey-rescue-in-u-s-after-falling-madly-in-love-with-the-animal-it-s-now-rescued-nearly-500-12203440",
+      "first_recommended": "2026-10-31",
+      "status": "2026-10-30新報導；事件本身可能較早"
+    },
+    {
+      "event_id": "sh-0fa13e9c53b8",
+      "title": "WarAngel Farms馬匹救援",
+      "boards": "A",
+      "source_url": "https://people.com/100-acre-georgia-farm-rescues-horses-from-kill-pens-while-bringing-healing-to-people-12203301",
+      "first_recommended": "2026-10-31",
+      "status": "2026-10-30新報導；事件本身可能較早"
+    },
+    {
+      "event_id": "sh-bc90e2279d2e",
+      "title": "四千年前狗掌印泥磚",
+      "boards": "AB",
+      "source_url": "https://www.smithsonianmag.com/smart-news/a-dog-left-a-paw-print-on-this-mud-brick-4000-years-ago-archaeologists-discovered-it-in-the-rubble-of-a-bronze-age-house-180989785/",
+      "first_recommended": "2026-10-31",
+      "status": "2026-10-30新報導；事件本身可能較早"
+    },
+    {
+      "event_id": "sh-084c9b41c609",
+      "title": "烏鴉235毫秒視覺判斷",
+      "boards": "AB",
+      "source_url": "https://www.smithsonianmag.com/smart-news/crows-can-make-decisions-based-on-visual-information-at-lightning-speed-roughly-twice-as-fast-as-humans-can-study-suggests-180989779/",
+      "first_recommended": "2026-10-31",
+      "status": "2026-10-30新報導；事件本身可能較早"
+    },
+    {
+      "event_id": "sh-86406ceb7245",
+      "title": "Belichick Hudson分手確認",
+      "boards": "AB",
+      "source_url": "https://people.com/bill-belichick-and-jordon-hudson-broke-up-a-year-ago-despite-recent-appearances-11723630",
+      "first_recommended": "2026-10-31",
+      "status": "2026-10-30新報導；事件本身可能較早"
+    },
+    {
+      "event_id": "sh-82150c400b04",
+      "title": "McCall DaPron JFK服裝爭議",
+      "boards": "AB",
+      "source_url": "https://people.com/mormon-wives-mccall-dapron-faces-backlash-over-jfk-assassination-halloween-costume-12203019",
+      "first_recommended": "2026-10-31",
+      "status": "2026-10-30新報導；事件本身可能較早"
+    },
+    {
+      "event_id": "sh-ba6665281a61",
+      "title": "特洛伊2800年骨笛",
+      "boards": "A",
+      "source_url": "https://www.smithsonianmag.com/smart-news/crafted-from-bone-this-2800-year-old-flute-unearthed-in-troy-may-have-been-played-around-the-time-that-homer-composed-the-iliad-and-the-odyssey-180989792/",
+      "first_recommended": "2026-10-31",
+      "status": "2026-10-30新報導；事件本身可能較早"
+    },
+    {
+      "event_id": "sh-cc6386249a65",
+      "title": "Selma Blair航班事件回應",
+      "boards": "B",
+      "source_url": "https://people.com/selma-blair-fights-back-tears-as-she-personally-addresses-plane-incident-for-first-time-in-new-video-i-am-so-sorry-12203363",
+      "first_recommended": "2026-10-31",
+      "status": "2026-10-30新報導；事件本身可能較早"
+    },
+    {
+      "event_id": "sh-99996b911567",
+      "title": "Jessica Lange可能退休",
+      "boards": "B",
+      "source_url": "https://people.com/jessica-lange-77-might-retire-soon-coming-to-an-end-12203316",
+      "first_recommended": "2026-10-31",
+      "status": "2026-10-30新報導；事件本身可能較早"
+    },
+    {
+      "event_id": "sh-891c5feef171",
+      "title": "美國萬聖節巧克力購買趨勢",
+      "boards": "B",
+      "source_url": "https://www.reuters.com/business/retail-consumer/chocolate-makers-get-halloween-fright-health-conscious-us-shoppers-cut-back-2026-10-30/",
+      "first_recommended": "2026-10-31",
+      "status": "2026-10-30新報導；事件本身可能較早"
+    },
+    {
+      "event_id": "sh-a7f719bf74e4",
+      "title": "美國11月1日換回標準時間",
+      "boards": "B",
+      "source_url": "https://www.reuters.com/world/us/us-return-standard-time-sunday-lawmakers-rebuff-trump-push-2026-10-30/",
+      "first_recommended": "2026-10-31",
+      "status": "2026-10-30新報導；事件本身可能較早"
+    },
+    {
+      "event_id": "sh-c79a5f107134",
+      "title": "美國麻疹累計4852例",
+      "boards": "B",
+      "source_url": "https://www.reuters.com/legal/litigation/us-measles-cases-rise-4852-cdc-says-2026-10-30/",
+      "first_recommended": "2026-10-31",
+      "status": "2026-10-30新報導；事件本身可能較早"
+    },
+    {
+      "event_id": "sh-773ee46cbed6",
+      "title": "馬達加斯加狐蝠可能變小",
+      "boards": "B",
+      "source_url": "https://www.smithsonianmag.com/smart-news/madagascars-giant-bats-seem-to-be-shrinking-after-measuring-121-specimens-scientists-suggest-hunting-by-humans-is-to-blame-180989782/",
+      "first_recommended": "2026-10-31",
+      "status": "2026-10-30新報導；事件本身可能較早"
+    }
+  ]
+}
