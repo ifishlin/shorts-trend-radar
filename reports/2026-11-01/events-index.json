@@ -1,0 +1,173 @@
+{
+  "date": "2026-11-01",
+  "A_count": 15,
+  "B_count": 15,
+  "unique_count": 20,
+  "overlap_count": 10,
+  "screened_leads": 42,
+  "heat_status": "未取得可靠原始社群觀看或搜尋連續增速",
+  "email_status": "A、B均因BLOCKED_FILE_REFERENCE未寄出，SENT無今日郵件",
+  "full_reports": "完整HTML與JSON在ChatGPT本次報告下載附件",
+  "events": [
+    {
+      "event_id": "sh-5ad4643901fd",
+      "title": "Heidi Klum把自己變成一隻巨型斷手",
+      "boards": "AB",
+      "source_url": "https://apnews.com/article/a98b859d0e60532a9f7b4ee851bc507d",
+      "first_recommended": "2026-11-01",
+      "status": "今日新報導或48–72小時內報導"
+    },
+    {
+      "event_id": "sh-5596bfd9cf5d",
+      "title": "Harry Styles萬聖節竟扮紐約「披薩老鼠」",
+      "boards": "AB",
+      "source_url": "https://people.com/harry-styles-harryween-costume-night-2-pizza-rat-photos-madison-square-garden-12201416",
+      "first_recommended": "2026-11-01",
+      "status": "今日新報導或48–72小時內報導"
+    },
+    {
+      "event_id": "sh-b9a1dc4d86ed",
+      "title": "醫院讓十隻狗狗穿萬聖節裝，替不能回家的孩子遊行",
+      "boards": "AB",
+      "source_url": "https://www.aol.com/articles/children-healthcare-atlanta-hosts-halloween-173949000.html",
+      "first_recommended": "2026-11-01",
+      "status": "今日新報導或48–72小時內報導"
+    },
+    {
+      "event_id": "sh-16e4a4292823",
+      "title": "兒童醫院執行長穿成Belle，到病房探望孩子",
+      "boards": "AB",
+      "source_url": "https://people.com/hospital-chief-brings-joy-to-pediatric-patients-by-dressing-as-belle-from-beauty-and-the-beast-for-halloween-12202776",
+      "first_recommended": "2026-11-01",
+      "status": "今日新報導或48–72小時內報導"
+    },
+    {
+      "event_id": "sh-1fad3281cd06",
+      "title": "Zendaya復刻Halle Berry 2000年《X-Men》首映造型",
+      "boards": "AB",
+      "source_url": "https://pagesix.com/2026/10/31/celebrity-news/zendaya-recreates-halle-berrys-iconic-x-men-premiere-look-for-halloween-2026/",
+      "first_recommended": "2026-11-01",
+      "status": "今日新報導或48–72小時內報導"
+    },
+    {
+      "event_id": "sh-cf9b3f464b22",
+      "title": "Keke Palmer帶三歲兒子復刻Jackson兄妹《Scream》",
+      "boards": "AB",
+      "source_url": "https://people.com/keke-palmer-goes-all-out-for-halloween-is-hostess-with-the-mostest-exclusive-12200912",
+      "first_recommended": "2026-11-01",
+      "status": "今日新報導或48–72小時內報導"
+    },
+    {
+      "event_id": "sh-5eeb379b1e7a",
+      "title": "密西根動物園狐猴抱著萬聖節南瓜不放",
+      "boards": "A",
+      "source_url": "https://www.telemundo.com/noticias/noticias-telemundo-en-la-noche/estados-unidos/video/un-lemur-de-un-zoologico-de-michigan-esta-feliz-con-su-calabaza-de-halloween-tmvo13239958",
+      "first_recommended": "2026-11-01",
+      "status": "今日新報導或48–72小時內報導"
+    },
+    {
+      "event_id": "sh-d56e0ab1e816",
+      "title": "James Charles花七個半小時變身《變身國王》反派Yzma",
+      "boards": "A",
+      "source_url": "https://ads.eonline.com/photos/38406/heidi-klums-halloween-party-2026-all-the-celebrity-costumes-on-the-red-carpet",
+      "first_recommended": "2026-11-01",
+      "status": "今日新報導或48–72小時內報導"
+    },
+    {
+      "event_id": "sh-676abeee07ee",
+      "title": "Tom Brady緋聞對象手戴戒指：但不是訂婚證據",
+      "boards": "AB",
+      "source_url": "https://www.tmz.com/2026/10/31/candice-swanepoel-seen-wearing-ring-amid-tom-brady-dating-buzz/",
+      "first_recommended": "2026-11-01",
+      "status": "今日新報導或48–72小時內報導"
+    },
+    {
+      "event_id": "sh-8670e46a9d8e",
+      "title": "洛杉磯萬聖節街區太熱門：一戶鬼屋吸引約1.5萬人",
+      "boards": "AB",
+      "source_url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/burbank-california-los-angeles-halloween-capital",
+      "first_recommended": "2026-11-01",
+      "status": "今日新報導或48–72小時內報導"
+    },
+    {
+      "event_id": "sh-c84f42a9e5d2",
+      "title": "Lily Allen把演唱會售票座位圖穿在身上",
+      "boards": "A",
+      "source_url": "https://www.yahoo.com/entertainment/celebrity/article/lisa-rinna-channels-kylie-jenner-carson-daly-nails-ella-langleys-fringe-and-more-the-best-celebrity-halloween-costumes-of-2026-so-far-185536081.html",
+      "first_recommended": "2026-11-01",
+      "status": "今日新報導或48–72小時內報導"
+    },
+    {
+      "event_id": "sh-9b7387b30592",
+      "title": "新發現的「地獄雞」恐龍，竟然專門吃水果",
+      "boards": "AB",
+      "source_url": "https://www.reuters.com/science/strange-beaked-hell-chicken-is-first-fruit-eating-dinosaur-2026-10-30/",
+      "first_recommended": "2026-11-01",
+      "status": "今日新報導或48–72小時內報導"
+    },
+    {
+      "event_id": "sh-2f465dd59b3e",
+      "title": "韋伯望遠鏡看到古老「星系車禍」留下的圓環",
+      "boards": "AB",
+      "source_url": "https://www.livescience.com/space/cosmology/james-webb-telescope-discovers-most-distant-ring-galaxy-ever-hinting-at-an-ultra-rare-early-universe-collision",
+      "first_recommended": "2026-11-01",
+      "status": "今日新報導或48–72小時內報導"
+    },
+    {
+      "event_id": "sh-67982c2234eb",
+      "title": "恐龍被隕石滅絕，為什麼鱷魚活了下來？",
+      "boards": "A",
+      "source_url": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm",
+      "first_recommended": "2026-11-01",
+      "status": "今日新報導或48–72小時內報導"
+    },
+    {
+      "event_id": "sh-067bbaac18a9",
+      "title": "《Spy Kids》2001年大拇指怪人，竟被模特兒穿上身",
+      "boards": "A",
+      "source_url": "https://www.yahoo.com/entertainment/celebrity/article/lisa-rinna-channels-kylie-jenner-carson-daly-nails-ella-langleys-fringe-and-more-the-best-celebrity-halloween-costumes-of-2026-so-far-185536081.html",
+      "first_recommended": "2026-11-01",
+      "status": "今日新報導或48–72小時內報導"
+    },
+    {
+      "event_id": "sh-32bfaf522220",
+      "title": "加州萬聖節商店槍擊：孕婦死亡、六人受傷",
+      "boards": "B",
+      "source_url": "https://apnews.com/article/c531ed034832fa0558a246b18334f5bd",
+      "first_recommended": "2026-11-01",
+      "status": "今日新報導或48–72小時內報導"
+    },
+    {
+      "event_id": "sh-ff5a6f781ba9",
+      "title": "美國電費漲幅超過10%，資料中心成選舉焦點",
+      "boards": "B",
+      "source_url": "https://www.reuters.com/business/energy/power-bills-data-centers-cast-rare-spotlight-utilities-us-midterms-2026-10-31/",
+      "first_recommended": "2026-11-01",
+      "status": "今日新報導或48–72小時內報導"
+    },
+    {
+      "event_id": "sh-edc7bdbb049e",
+      "title": "美國FBI指控北韓駭客涉63億美元加密貨幣竊案",
+      "boards": "B",
+      "source_url": "https://apnews.com/article/883f18140c1e21ce0c38781e72cbe315",
+      "first_recommended": "2026-11-01",
+      "status": "今日新報導或48–72小時內報導"
+    },
+    {
+      "event_id": "sh-69726445c168",
+      "title": "萬聖節變裝跨越全球：球賽、街頭甚至抗議現場",
+      "boards": "B",
+      "source_url": "https://apnews.com/article/01b30ad96756473c932d68dbe561f5bf",
+      "first_recommended": "2026-11-01",
+      "status": "今日新報導或48–72小時內報導"
+    },
+    {
+      "event_id": "sh-f61e54dacabf",
+      "title": "Savannah Chrisley回應婚姻與懷孕新聞引發的批評",
+      "boards": "B",
+      "source_url": "https://www.tmz.com/2026/10/31/savannah-chrisley-defends-jason-galanis-relationship/",
+      "first_recommended": "2026-10-30",
+      "status": "新進展"
+    }
+  ]
+}
