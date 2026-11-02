@@ -1,0 +1,189 @@
+{
+  "date": "2026-11-02",
+  "A_count": 14,
+  "B_count": 14,
+  "selected_unique": 22,
+  "overlap_count": 6,
+  "screened_leads": 50,
+  "email_status": "兩封HTML郵件均遭BLOCKED_FILE_REFERENCE，SENT未找到",
+  "full_reports": "完整HTML及JSON見ChatGPT報告附件",
+  "heat_status": "兩題有Trari第三方YouTube影片觀看快照；其餘熱度未驗證",
+  "events": [
+    {
+      "event_id": "sh-ff48e511e163",
+      "boards": "A",
+      "first_recommended": "2026-11-02",
+      "title": "南瓜裝全家跳舞，只有狗狗完全不想配合",
+      "source_url": "https://www.youtube.com/watch?v=CKukHizrKNI",
+      "status": "今日新發現"
+    },
+    {
+      "event_id": "sh-4d1608c849f1",
+      "boards": "A",
+      "first_recommended": "2026-11-02",
+      "title": "化學創作者做出「所有味道一起爆炸」的骷髏糖",
+      "source_url": "https://trari.com/en/story/nileblue-23747/",
+      "status": "今日新發現"
+    },
+    {
+      "event_id": "sh-7dbef27a673f",
+      "boards": "AB",
+      "first_recommended": "2026-11-02",
+      "title": "Martha Stewart萬聖節裝扮惹議，刪文後再度道歉",
+      "source_url": "https://www.thewrap.com/culture-lifestyle/culture/martha-stewart-homeless-halloween-costume-explained/",
+      "status": "今日新發現"
+    },
+    {
+      "event_id": "sh-4706db06a734",
+      "boards": "AB",
+      "first_recommended": "2026-11-02",
+      "title": "鋼鐵人與Pedro Pascal交換漫威角色過萬聖節",
+      "source_url": "https://www.justjared.com/2026/11/01/robert-downey-jr-pedro-pascal-swap-avengers-doomsday-characters-for-halloween/",
+      "status": "今日新發現"
+    },
+    {
+      "event_id": "sh-34517c83d2a1",
+      "boards": "AB",
+      "first_recommended": "2026-11-02",
+      "title": "萬聖節一結束，Mariah Carey立刻宣告聖誕季開跑",
+      "source_url": "https://ew.com/mariah-carey-2026-all-i-want-for-christmas-is-you-its-time-video-12204353",
+      "status": "今日新發現"
+    },
+    {
+      "event_id": "sh-6cb912de5b6e",
+      "boards": "AB",
+      "first_recommended": "2026-11-02",
+      "title": "Pete Davidson與前任帶女兒扮《黑道家族》過第一個萬聖節",
+      "source_url": "https://www.justjared.com/2026/11/01/pete-davidson-reunites-with-ex-elsie-hewitt-to-celebrate-daughter-scotties-first-halloween/",
+      "status": "今日新發現"
+    },
+    {
+      "event_id": "sh-a2470c9d137c",
+      "boards": "AB",
+      "first_recommended": "2026-11-02",
+      "title": "芝加哥狗狗變裝秀：從熱狗到《綠野仙蹤》全出籠",
+      "source_url": "https://www.yahoo.com/news/videos/chicago-dog-owners-show-off-221018725.html",
+      "status": "今日新發現"
+    },
+    {
+      "event_id": "sh-dd56de413795",
+      "boards": "A",
+      "first_recommended": "2026-11-02",
+      "title": "黃金獵犬被萬聖節面具嚇壞，卻不忘先救自己的玩偶",
+      "source_url": "https://dogtime.com/news/237138-golden-retriever-spooked-human-halloween-costume-protect-baby-toy",
+      "status": "今日新發現"
+    },
+    {
+      "event_id": "sh-9d23384be3fd",
+      "boards": "A",
+      "first_recommended": "2026-11-02",
+      "title": "亞利桑那院子掛滿「被害」的狗玩偶，萬聖節笑點只有狗奴懂",
+      "source_url": "https://www.aol.com/articles/silence-lamb-chops-halloween-decorations-130000000.html",
+      "status": "今日新發現"
+    },
+    {
+      "event_id": "sh-0fe7c9ef9683",
+      "boards": "A",
+      "first_recommended": "2026-11-02",
+      "title": "小女孩扮Belle，毛茸茸的狗狗剛好是野獸",
+      "source_url": "https://www.tag24.com/en/topic/viral-video-of-the-day/viral-video-of-the-day-for-october-31-2026-toddler-belle-and-her-dog-beast-make-the-cutest-halloween-duo-3536309",
+      "status": "今日新發現"
+    },
+    {
+      "event_id": "sh-6177321eac99",
+      "boards": "A",
+      "first_recommended": "2026-11-02",
+      "title": "Andy Cohen與Anderson Cooper帶小孩萬聖節要糖果",
+      "source_url": "https://www.justjared.com/2026/11/01/andy-cohen-boyfriend-kevin-sobieski-go-trick-or-treating-with-anderson-cooper/",
+      "status": "今日新發現"
+    },
+    {
+      "event_id": "sh-97bdac9cc3df",
+      "boards": "A",
+      "first_recommended": "2026-11-02",
+      "title": "分手後仍陪女兒討糖：Bradley Cooper和Irina Shayk同框",
+      "source_url": "https://www.tmz.com/2026/11/01/irina-shayk-looking-hot-in-bodysuit/",
+      "status": "今日新發現"
+    },
+    {
+      "event_id": "sh-7422e6939afe",
+      "boards": "A",
+      "first_recommended": "2026-11-02",
+      "title": "《Full House》John Stamos扮殭屍Elvis，還上台打鼓",
+      "source_url": "https://www.tmz.com/2026/11/01/john-stamos-plays-music-in-costume-at-halloween-party/",
+      "status": "今日新發現"
+    },
+    {
+      "event_id": "sh-73b8a7f3cffd",
+      "boards": "AB",
+      "first_recommended": "2026-11-02",
+      "title": "被認為可能消失近百年的懶猴，竟早就在救援中心留下紀錄",
+      "source_url": "https://www.aol.com/articles/scientists-thought-bangka-slow-loris-072200000.html",
+      "status": "舊聞／延伸"
+    },
+    {
+      "event_id": "sh-cdb2e0d0f873",
+      "boards": "B",
+      "first_recommended": "2026-11-02",
+      "title": "佛州私人飛機墜毀釀九死，調查聚焦飛行最後幾分鐘",
+      "source_url": "https://www.reuters.com/business/aerospace-defense/nine-people-dead-learjet-crash-south-florida-officials-say-2026-11-01/",
+      "status": "今日新發現"
+    },
+    {
+      "event_id": "sh-26f8567f2569",
+      "boards": "B",
+      "first_recommended": "2026-10-25",
+      "title": "三小時Elizabeth Holmes紀錄片，票房竟逼退DC英雄電影",
+      "source_url": "https://www.hollywoodoutbreak.com/2026/11/01/box-office-battle-holmes-doc-and-clayface-in-dead-heat/",
+      "status": "新進展"
+    },
+    {
+      "event_id": "sh-870deb279e63",
+      "boards": "B",
+      "first_recommended": "2026-11-02",
+      "title": "萬聖節週末多州槍擊事件，AP整理至少六人死亡",
+      "source_url": "https://apnews.com/article/22eb299b80705cae19e2e5b425459c63",
+      "status": "今日新發現"
+    },
+    {
+      "event_id": "sh-4dea4edf8a09",
+      "boards": "B",
+      "first_recommended": "2026-11-02",
+      "title": "密西根民主黨眾議員倒戈，公開支持共和黨參議員候選人",
+      "source_url": "https://www.tmz.com/2026/11/01/haley-stevens-endorses-mike-rogers/",
+      "status": "今日新發現"
+    },
+    {
+      "event_id": "sh-ca700c8aa0b8",
+      "boards": "B",
+      "first_recommended": "2026-11-02",
+      "title": "美國參議員Chris Murphy傳出中風住院，幕僚說明經過",
+      "source_url": "https://www.tmz.com/2026/11/01/chris-murphy-hospitalized-after-stroke/",
+      "status": "今日新發現"
+    },
+    {
+      "event_id": "sh-befb90274c7d",
+      "boards": "B",
+      "first_recommended": "2026-11-02",
+      "title": "《烈火悍將》導演Michael Mann在靶場意外受輕傷",
+      "source_url": "https://www.tmz.com/2026/11/01/michael-mann-accidentally-shoots-himself-in-leg/",
+      "status": "今日新發現"
+    },
+    {
+      "event_id": "sh-8def3bf5d78a",
+      "boards": "B",
+      "first_recommended": "2026-11-02",
+      "title": "《單身漢》前參賽者Melissa Rycroft再涉酒駕指控",
+      "source_url": "https://www.tmz.com/2026/11/01/melissa-rycroft-arrested/",
+      "status": "今日新發現"
+    },
+    {
+      "event_id": "sh-4b9e99d2bd5e",
+      "boards": "B",
+      "first_recommended": "2026-11-02",
+      "title": "美國期中選舉最後衝刺，兩黨爭奪國會控制權",
+      "source_url": "https://apnews.com/article/d66c92d2c171cf4dc434078c64cf2cd1",
+      "status": "今日新發現"
+    }
+  ]
+}
